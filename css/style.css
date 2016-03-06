@@ -342,6 +342,10 @@ img.wp-post-image {
 	height: auto; /* Make sure images with WordPress-added height and width attributes are scaled correctly */
 }
 
+.post img {
+	margin: 0 auto;
+}
+
 /* Make sure videos and embeds fit their containers */
 embed,
 iframe,
@@ -498,7 +502,6 @@ body {
 	font-size: 14px;
 	font-size: 1rem;
 	font-family: 'Libre Baskerville', Helvetica, Arial, sans-serif;
-	text-rendering: optimizeLegibility;
 	color: #444;
 }
 a {

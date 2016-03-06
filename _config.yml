@@ -13,13 +13,24 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://goodiesavolonte.com" # the base hostname & protocol for your site
-github_username:  nhuon
+url: "http://www.goodiesavolonte.com" # the base hostname & protocol for your site
+permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
+
+# Gems
+gems: [jekyll-paginate, jekyll-gist]
+
+# Pagination
+pagination: 5
+
+# Widgets
+recent_posts_limit: 5
+
+# Social
+disqus_username: goodiesavolonte
 facebook_username: goodiesavolonte
 pinterest_username: goodiesavolonte
 googleplus_username: 109690430298154983764
-recent_posts_limit: 5
-
 
 # Build settings
 markdown: kramdown

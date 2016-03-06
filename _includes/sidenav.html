@@ -13,7 +13,7 @@
 <aside id="recent-posts" class="widget widget_recent_entries">
   <h3 class="widget-title">Recent Posts</h3>
   <ul>
-  {% for post in site.posts limit:recent_posts_limit %}
+  {% for post in site.posts limit:site.recent_posts_limit %}
     <li><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
