@@ -1,0 +1,25 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Goodies A Volonté
+email: goodiesavolonte@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://goodiesavolonte.com" # the base hostname & protocol for your site
+github_username:  nhuon
+facebook_username: goodiesavolonte
+pinterest_username: goodiesavolonte
+googleplus_username: 109690430298154983764
+recent_posts_limit: 5
+
+
+# Build settings
+markdown: kramdown

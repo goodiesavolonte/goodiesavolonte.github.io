@@ -1,0 +1,20 @@
+<header class="site-header">
+  <h1 class="site-title">
+    <a class="site-title-text" href="{{ site.baseurl }}/">{{ site.title }}</a>
+  </h1>
+  <nav id="site-navigation" class="main-navigation" role="navigation">
+    <h3 class="menu-toggle">Menu</h3>
+    <div class="nav-menu">
+      <ul>
+      {% assign sorted_pages = site.pages | sort:"order" %}
+      {% for page in sorted_pages %}
+        {% if page.title %}
+        <li class="page-item">
+          <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>

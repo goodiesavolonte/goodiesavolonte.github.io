@@ -1,0 +1,11 @@
+<h2>{{ include.option_type }}</h2>
+{% for option in include.options %}
+{% assign option_name = option | first %}
+<li class="pb-option-item">
+ 	<input type="checkbox" value="{{ option_name }}">
+	<label>
+		<span class="pb-option-cat">{{ option_name }}</span>
+		<span class="pb-option-count"></span>
+	</label>
+</li>
+{% endfor %}

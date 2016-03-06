@@ -1,0 +1,19 @@
+<footer id="colophon" role="contentinfo">
+  <div class="left">
+    <div class="nav-menu">
+      <ul>
+      {% assign sorted_pages = site.pages | sort:"order" %}
+      {% for page in sorted_pages %}
+        {% if page.title %}
+        <li class="page-item">
+          <a href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="site-info">
+    <p>&copy; {{ site.title }} 2016. Please contact to use any material on this website.</p>
+  </div><!-- .site-info -->
+</footer><!-- #colophon -->
