@@ -6,10 +6,10 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=605
 permalink: /2013/10/31/jerk-chicken-okra-rice/
+thumbnail: /img/thumbnails/2013-10-31-jerk-chicken-okra-rice.jpg
 featured:
   - 1
 categories:
-  - Cooking
   - Mains
 tags:
   - chicken

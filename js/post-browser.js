@@ -40,7 +40,7 @@
 	PostBrowser.prototype.RefreshCounts = function() {
 		$('.pb-option-cat').each(function() {
 			var element = $(this);
-			var category = element.text();
+			var category = element.text().replace(' ', '-');
 			var count = $('.pb-cat-' + category + ':not(.pb-hidden)').length;
 			var count_str = '';
 			if (count > 0) {

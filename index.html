@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 {% for post in paginator.posts %}
 <article>
   <header class="entry-header">
@@ -11,6 +10,7 @@ layout: default
   </header>
   <div class="entry-content">
     {{ post.excerpt }}
+    <a class="more-link" href="{{ post.url | prepend: site.baseurl }}" rel="bookmark">Read more</a>
   </div><!-- .entry-summary -->
   <footer class="entry-meta">
     Posted in
@@ -22,6 +22,17 @@ layout: default
     {% for tag in post.tags %}
     <a href="{{ site.baseurl }}/recipes/#{{ tag }}">{{ tag | capitalize }}</a>
     {% endfor %}
+    <div class="social-share" data-url="{{ post.url | prepend: site.baseurl }}"></div>
   </footer>
 </article>
 {% endfor %}
+{% if paginator.next_page %}
+<div class="nav-next alignleft">
+  <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">←Older posts</a>
+</div>
+{% endif %}
+{% if paginator.previous_page %}
+<div class="nav-previous alignright">
+  <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer posts→</a>
+</div>
+{% endif %}

@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=657
 permalink: /2013/11/09/peanut-banana-muffins-with-pecan-streusel/
+thumbnail: /img/thumbnails/2013-11-09-peanut-banana-muffins-with-pecan-streusel.jpg
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:

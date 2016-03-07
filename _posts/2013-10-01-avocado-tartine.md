@@ -6,9 +6,9 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=377
 permalink: /2013/10/01/avocado-tartine/
+thumbnail: /img/thumbnails/2013-10-01-avocado-tartine.jpg
 categories:
   - Appetizers
-  - Cooking
   - Snacks
 tags:
   - avocado

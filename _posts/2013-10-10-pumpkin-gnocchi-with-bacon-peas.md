@@ -6,15 +6,13 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=489
 permalink: /2013/10/10/pumpkin-gnocchi-with-bacon-peas/
+thumbnail: /img/thumbnails/2013-10-10-pumpkin-gnocchi-with-bacon-peas.jpg
 featured:
   - 1
 categories:
-  - Cooking
   - Mains
-  - Pasta
 tags:
   - bacon
-  - gnocchi
   - pea
   - pumpkin
 ---

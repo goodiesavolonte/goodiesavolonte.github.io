@@ -6,9 +6,9 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=641
 permalink: /2013/11/06/taiwanese-braised-pork-handmade-noodles/
+thumbnail: /img/thumbnails/2013-11-06-taiwanese-braised-pork-handmade-noodles.jpg
 categories:
   - Asian
-  - Cooking
   - Mains
 tags:
   - bok choy

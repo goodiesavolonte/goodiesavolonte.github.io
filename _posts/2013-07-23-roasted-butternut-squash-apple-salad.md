@@ -1,18 +1,17 @@
 ---
 id: 1
-title: 'Roasted Butternut Squash &#038; Apple Salad with Honey Dijon Dressing'
+title: 'Roasted Butternut Squash & Apple Salad with Honey Dijon Dressing'
 date: 2013-07-23T02:43:17+00:00
 author: Cecilia
 layout: post
 guid: http://192.241.135.203/?p=1
 permalink: /2013/07/23/roasted-butternut-squash-apple-salad/
+thumbnail: /img/thumbnails/2013-07-23-roasted-butternut-squash-apple-salad.jpg
 categories:
-  - Cooking
   - Salads
 tags:
   - apple
   - butternut squash
-  - salad
 ---
 <input class="jpibfi" type="hidden" />
 

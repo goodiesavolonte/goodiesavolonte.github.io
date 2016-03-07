@@ -6,36 +6,41 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=98
 permalink: /2013/09/02/banh-cuoan-thanh-tri/
+thumbnail: /img/thumbnails/2013-09-02-banh-cuoan-thanh-tri.jpg
 categories:
   - Asian
-  - Cooking
   - Mains
   - Salads
 tags:
   - noodles
-  - salad
 ---
 <input class="jpibfi" type="hidden" />
 
-[<img class="alignnone size-full wp-image-184" alt="IMG_5157" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5157.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5157.jpg)
+{: .post-image}
+![image1](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5157.jpg){:height="773" width="552"}
 
 Don&#8217;t ask me how Banh Cuon Thanh Tri sounds like in Vietnamese, I have no idea. All I know is that it&#8217;s one of my favorite thing. The first time I had this dish was at Nico&#8217;s aunt&#8217;s. His family is from Cambodia so he grew up eating a lot of southeast asian cuisine including Vietnamese food.
 
 Banh cuon thanh tri is basically rice flour sheets (with no filling, as opposed to just banh cuon). It&#8217;s usually topped with cha lua (vietnamese ham), fried shallots and a bunch of herbs, and served with the classic fish sauce based sauce nuoc cham.
 
-[<img class="alignnone size-full wp-image-183" alt="IMG_5163" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51632.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51632.jpg)
+<!--more-->
+
+{: .post-image}
+![image2](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51632.jpg){:height="773" width="552"}
 
 The recipe itself is pretty simple but the prep takes time so make sure you have some. One of the key element is the sauce and Nico is usually the one making it. He learned it from his dad and has good taste buds to find the right balance. Because this sauce is all about balance, it&#8217;s hard to give precise measurements. Also, this is not the blend flat sauce that you find in restaurants, this version is more concentrated than the traditional sauce so be prepare for a punch of flavours! . . .and let&#8217;s be honest, a bad breath but oh well . . .
 
-<a style="font-size: 1rem; color: #0f3647;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51361.jpg"><img class="alignnone size-full wp-image-173" alt="Garlic paste" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51361.jpg" width="274" height="384" /></a> <img class="alignnone size-full wp-image-174" style="font-size: 1rem; line-height: 1;" alt="Cha lua" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51381.jpg" width="274" height="384" />
+{: .post-image}
+![image3](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51361.jpg){:height="384" width="274"}
+![image4](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51381.jpg){:height="384" width="274"}
 
 About the rice sheets, I haven&#8217;t tried to make them from scratch yet, I usually buy them fresh at the Chinese store. They should be soft and chewy. Fried shallots can also be found there but this time I forgot to buy a jar so I had to make them myself.
 
 _Nico&#8217;s wine pairing: The sauce in this dish would probably overpower any wine so grab a beer! I&#8217;m open to suggestions though._
 
-<!--more-->
-
-<img class="alignnone size-full wp-image-171" style="font-size: 1rem; line-height: 1;" alt="Rice noodle sheets" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51291.jpg" width="274" height="384" /> <img class="alignnone size-full wp-image-172" style="font-size: 1rem; line-height: 1;" alt="Separating the noodles" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51311.jpg" width="274" height="384" />
+{: .post-image}
+![image5](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51291.jpg){:height="384" width="274"}
+![image6](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51311.jpg){:height="384" width="274"}
 
 <div class="recipe-box">
   <h2 class="recipe-title">

@@ -6,9 +6,9 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=336
 permalink: /2013/09/24/kimchi-fried-rice/
+thumbnail: /img/thumbnails/2013-09-24-kimchi-fried-rice.jpg
 categories:
   - Asian
-  - Cooking
 tags:
   - kimchi
   - rice

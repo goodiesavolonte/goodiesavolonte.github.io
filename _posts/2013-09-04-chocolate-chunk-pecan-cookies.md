@@ -6,18 +6,18 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=83
 permalink: /2013/09/04/chocolate-chunk-pecan-cookies/
+thumbnail: /img/thumbnails/2013-09-04-chocolate-chunk-pecan-cookies.jpg
 categories:
-  - Cooking
   - Pastry
 tags:
   - chocolate
   - cookie
-  - pastry
   - pecan
 ---
 <input class="jpibfi" type="hidden" />
 
-[<img class="alignnone size-full wp-image-205" alt="IMG_5084" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_50841.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_50841.jpg)
+{: .post-image}
+![image1](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_50841.jpg){:height="773" width="552"}
 
 Do you like cookies? We LOVE cookies. . . I mean who doesn&#8217;t?
   

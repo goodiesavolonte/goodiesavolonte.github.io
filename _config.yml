@@ -18,19 +18,26 @@ permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more-->
 
 # Gems
-gems: [jekyll-paginate, jekyll-gist]
+gems: [jekyll-paginate]
 
 # Pagination
-pagination: 5
+paginate: 5
+paginate_path: "/page:num/"
 
 # Widgets
 recent_posts_limit: 5
 
 # Social
-disqus_username: goodiesavolonte
+disqus_username: goodiesavolonte-test
 facebook_username: goodiesavolonte
 pinterest_username: goodiesavolonte
 googleplus_username: 109690430298154983764
+
+# Analytics
+enable_analytics: true
+
+# Adsense
+enable_adsense: true
 
 # Build settings
 markdown: kramdown

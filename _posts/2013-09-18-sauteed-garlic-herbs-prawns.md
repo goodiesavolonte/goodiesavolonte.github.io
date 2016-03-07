@@ -1,21 +1,19 @@
 ---
 id: 290
-title: 'Sauteed Garlic &#038; Herbs Prawns'
+title: 'Sauteed Garlic & Herbs Prawns'
 date: 2013-09-18T02:52:51+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=290
 permalink: /2013/09/18/sauteed-garlic-herbs-prawns/
+thumbnail: /img/thumbnails/2013-09-18-sauteed-garlic-herbs-prawns.jpg
 categories:
   - Asian
-  - Cooking
   - Salads
   - Seafood
 tags:
   - garlic
-  - herbs
-  - pan
-  - prawns
+  - prawn
 ---
 <input class="jpibfi" type="hidden" />
 

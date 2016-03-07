@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=714
 permalink: /2013/11/20/beet-fennel-heirloom-carrot-salad/
+thumbnail: /img/thumbnails/2013-11-20-beet-fennel-heirloom-carrot-salad.jpg
 categories:
-  - Cooking
   - Salads
 tags:
   - beet

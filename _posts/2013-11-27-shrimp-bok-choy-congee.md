@@ -6,16 +6,15 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=744
 permalink: /2013/11/27/shrimp-bok-choy-congee/
+thumbnail: /img/thumbnails/2013-11-27-shrimp-bok-choy-congee.jpg
 categories:
   - Asian
-  - Cooking
   - Mains
   - Seafood
   - Soup
 tags:
   - bok choy
-  - congee
-  - shrimp
+  - prawn
 ---
 <input class="jpibfi" type="hidden" />
 

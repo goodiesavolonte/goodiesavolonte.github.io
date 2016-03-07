@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=366
 permalink: /2013/09/29/strawberry-crumble-cake/
+thumbnail: /img/thumbnails/2013-09-29-strawberry-crumble-cake.jpg
 categories:
-  - Cooking
   - Pastry
 tags:
   - strawberry

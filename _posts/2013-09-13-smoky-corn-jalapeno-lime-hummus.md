@@ -1,21 +1,18 @@
 ---
 id: 263
-title: 'Smoky Corn &#038; Jalapeño Lime Hummus'
+title: 'Smoky Corn & Jalapeño Lime Hummus'
 date: 2013-09-13T03:09:56+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=263
 permalink: /2013/09/13/smoky-corn-jalapeno-lime-hummus/
+thumbnail: /img/thumbnails/2013-09-13-smoky-corn-jalapeno-lime-hummus.jpg
 categories:
   - Appetizers
-  - Cooking
 tags:
   - corn
-  - grill
-  - hummus
   - jalapeno
   - lime
-  - smoky
 ---
 <input class="jpibfi" type="hidden" />
 

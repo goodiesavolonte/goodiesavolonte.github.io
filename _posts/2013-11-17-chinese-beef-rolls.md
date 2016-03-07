@@ -6,13 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=689
 permalink: /2013/11/17/chinese-beef-rolls/
+thumbnail: /img/thumbnails/2013-11-17-chinese-beef-rolls.jpg
 categories:
   - Asian
-  - Cooking
   - Mains
 tags:
   - beef
-  - pancake
   - scallion
 ---
 <input class="jpibfi" type="hidden" />

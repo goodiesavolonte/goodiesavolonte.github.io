@@ -1,13 +1,13 @@
 ---
 id: 678
-title: 'Pan-fried Tilapia &#038; Ratatouille'
+title: 'Pan-fried Tilapia & Ratatouille'
 date: 2013-11-15T04:17:58+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=678
 permalink: /2013/11/15/pan-fried-tilapia-ratatouille/
+thumbnail: /img/thumbnails/2013-11-15-pan-fried-tilapia-ratatouille.jpg
 categories:
-  - Cooking
   - French
   - Mains
   - Seafood

@@ -6,13 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=561
 permalink: /2013/10/24/chocolate-apple-pie/
+thumbnail: /img/thumbnails/2013-10-24-chocolate-apple-pie.jpg
 categories:
-  - Cooking
   - Pastry
 tags:
   - apple
   - chocolate
-  - pie
 ---
 <input class="jpibfi" type="hidden" />
 

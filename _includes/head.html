@@ -11,6 +11,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville' rel='stylesheet' type='text/css'>
+  <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "/css/ayoshare.css" | prepend: site.baseurl }}" media="screen" type="text/css">
 
 {% if page.custom_css %}
   {% for stylesheet in page.custom_css %}
@@ -25,4 +27,55 @@
   {% endfor %}
 {% endif %}
 
+{% if site.enable_analytics %}
+  <script type="text/javascript">//<![CDATA[
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-43403232-1']);
+            _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+    //]]>
+  </script>
+{% endif %}
+
+  <script src={{ "/js/ayoshare.js" | prepend: site.baseurl }}></script>        
+    <script>
+      $(function() {
+          $(".social-share-url").ayoshare(
+              url = $(this).data("url"),
+              google = true,
+              stumbleupon = false,
+              facebook = true,
+              linkedin = false,
+              pinterest = true,
+              bufferapp = false,
+              reddit = false,
+              vk = false,
+              pocket = false,
+              twitter = true
+          );
+      });
+      $(function() {
+          $("#social-share").ayoshare(
+              url = location.href,
+              google = true,
+              stumbleupon = false,
+              facebook = true,
+              linkedin = false,
+              pinterest = true,
+              bufferapp = false,
+              reddit = false,
+              vk = false,
+              pocket = false,
+              twitter = true
+          );
+      });
+    </script>
 </head>

@@ -6,12 +6,11 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=575
 permalink: /2013/10/26/potato-cheese-balls-marjoram-tomato-dip/
+thumbnail: /img/thumbnails/2013-10-26-potato-cheese-balls-marjoram-tomato-dip.jpg
 categories:
   - Appetizers
-  - Cooking
 tags:
   - cheese
-  - marjoram
   - potato
   - tomato
 ---

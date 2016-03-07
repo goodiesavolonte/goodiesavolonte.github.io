@@ -1,18 +1,17 @@
 ---
 id: 286
-title: 'Roasted Cherry Tomatoes &#038; Parsley Quinoa Salad'
+title: 'Roasted Cherry Tomatoes & Parsley Quinoa Salad'
 date: 2013-09-22T02:41:42+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=286
 permalink: /2013/09/22/roasted-cherry-tomatoes-parsley-quinoa-salad/
+thumbnail: /img/thumbnails/2013-09-22-roasted-cherry-tomatoes-parsley-quinoa-salad.jpg
 categories:
-  - Cooking
   - Salads
 tags:
   - parsley
   - quinoa
-  - salad
   - tomato
 ---
 <input class="jpibfi" type="hidden" />

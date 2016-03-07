@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=757
 permalink: /2013/11/30/mussels-with-chorizo-parsley/
+thumbnail: /img/thumbnails/2013-11-30-mussels-with-chorizo-parsley.jpg
 categories:
-  - Cooking
   - Mains
   - Seafood
 tags:

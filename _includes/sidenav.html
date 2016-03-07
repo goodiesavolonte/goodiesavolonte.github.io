@@ -28,3 +28,19 @@
     {% endfor %}
   </ul>
 </aside>
+
+{% if site.enable_adsense %}
+<aside class="widget widget_text">
+  <div class="textwidget">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- sidebar-300x250 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:300px;height:250px"
+         data-ad-client="ca-pub-3315919843376146"
+         data-ad-slot="7872542913"></ins>
+    <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+</aside>
+{% endif %}

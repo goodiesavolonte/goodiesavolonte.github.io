@@ -1,17 +1,16 @@
 ---
 id: 241
-title: 'Raspberry &#038; Peach Pie'
+title: 'Raspberry & Peach Pie'
 date: 2013-09-12T03:16:15+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=241
 permalink: /2013/09/12/raspberry-peach-pie/
+thumbnail: /img/thumbnails/2013-09-12-raspberry-peach-pie.jpg
 categories:
-  - Cooking
   - Pastry
 tags:
   - peach
-  - pie
   - raspberry
 ---
 <input class="jpibfi" type="hidden" />

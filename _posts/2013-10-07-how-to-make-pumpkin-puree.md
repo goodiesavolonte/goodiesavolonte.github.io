@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=449
 permalink: /2013/10/07/how-to-make-pumpkin-puree/
+thumbnail: /img/thumbnails/2013-10-07-how-to-make-pumpkin-puree.jpg
 categories:
-  - Cooking
 tags:
   - pumpkin
 ---

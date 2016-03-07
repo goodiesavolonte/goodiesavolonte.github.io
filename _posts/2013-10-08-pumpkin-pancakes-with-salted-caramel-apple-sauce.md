@@ -6,13 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=460
 permalink: /2013/10/08/pumpkin-pancakes-with-salted-caramel-apple-sauce/
+thumbnail: /img/thumbnails/2013-10-08-pumpkin-pancakes-with-salted-caramel-apple-sauce.jpg
 categories:
   - Breakfast
-  - Cooking
 tags:
   - apple
   - caramel
-  - pancake
   - pumpkin
 ---
 <input class="jpibfi" type="hidden" />

@@ -16,10 +16,12 @@ custom_js:
 {% if post.thumbnail %}
 	{% assign cat_classes = "" %}
 	{% for cat in post.categories %}
-		{% assign cat_classes = cat_classes | append: " pb-cat-" | append: cat %}
+		{% assign cat_name = cat | replace:' ','-' %}
+		{% assign cat_classes = cat_classes | append: " pb-cat-" | append: cat_name %}
 	{% endfor %}
 	{% for tag in post.tags %}
-		{% assign cat_classes = cat_classes | append: " pb-cat-" | append: tag %}
+		{% assign tag_name = tag | replace:' ','-' %}
+		{% assign cat_classes = cat_classes | append: " pb-cat-" | append: tag_name %}
 	{% endfor %}
   <li class="pb-post-item {{ cat_classes }}">
   	<a href="{{ post.url | prepend: site.baseurl }}">

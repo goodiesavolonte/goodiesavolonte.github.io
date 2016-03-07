@@ -2,7 +2,7 @@
 {% for option in include.options %}
 {% assign option_name = option | first %}
 <li class="pb-option-item">
- 	<input type="checkbox" value="{{ option_name }}">
+ 	<input type="checkbox" value="{{ option_name | replace:' ','-' }}">
 	<label>
 		<span class="pb-option-cat">{{ option_name }}</span>
 		<span class="pb-option-count"></span>

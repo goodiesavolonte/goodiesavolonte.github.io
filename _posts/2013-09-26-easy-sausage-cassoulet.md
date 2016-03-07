@@ -6,12 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=350
 permalink: /2013/09/26/easy-sausage-cassoulet/
+thumbnail: /img/thumbnails/2013-09-26-easy-sausage-cassoulet.jpg
 categories:
-  - Cooking
   - French
   - Mains
 tags:
-  - beans
+  - bean
   - sausage
 ---
 <input class="jpibfi" type="hidden" />

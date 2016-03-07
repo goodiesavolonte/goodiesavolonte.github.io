@@ -6,13 +6,11 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=304
 permalink: /2013/09/20/spicy-fleur-de-sel-apple-chips/
+thumbnail: /img/thumbnails/2013-09-20-spicy-fleur-de-sel-apple-chips.jpg
 categories:
-  - Cooking
   - Snacks
 tags:
   - apple
-  - chips
-  - spicy
 ---
 <input class="jpibfi" type="hidden" />
 

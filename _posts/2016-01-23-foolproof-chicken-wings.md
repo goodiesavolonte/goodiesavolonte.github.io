@@ -6,18 +6,28 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=813
 permalink: /2016/01/23/foolproof-chicken-wings/
+thumbnail: /img/thumbnails/2016-01-23-foolproof-chicken-wings.jpg
 categories:
-  - Cooking
+  - Appetizers
+  - Mains
+tags:
+  - chicken
 ---
-<input class="jpibfi" type="hidden" />
 
-[<img class="alignnone size-full wp-image-817" alt="Asian Style Fried Chicken Wings" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg)
+{: .post-image}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg){:height="773" width="552"}
 
 These crowd pleasing wings are easy to prep. The marinate sauce only has 4 ingredients which includes garlic, Maggi, fish sauce and maple syrup.  This is a foolproof tasty appetizer or main on any day. You will not believe how delicious these are until you make them. So give it a try and let me know how much you love them!
 
-P.S.  Don&#8217;t forget to pair it with a glass of iced cold beer! <!--more-->
+<!--more-->
 
-[<img class="alignnone size-full wp-image-816" alt="Asian Style Fried Chicken Wings" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-02.jpg)   [<img class="alignnone size-full wp-image-818" alt="Asian Style Fried Chicken Wings" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-03.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-03.jpg)
+{: .post-image}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-02.jpg){:height="773" width="552"}
+
+{: .post-image}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-03.jpg){:height="773" width="552"}
+
+P.S.  Don't forget to pair it with a glass of iced cold beer!
 
 ## Foolproof Chicken Wings
 

@@ -6,11 +6,11 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=592
 permalink: /2013/10/29/blackberry-rosemary-focaccia/
+thumbnail: /img/thumbnails/2013-10-29-blackberry-rosemary-focaccia.jpg
 featured:
   - 1
 categories:
   - Bread
-  - Cooking
   - Snacks
 tags:
   - blackberry

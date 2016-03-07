@@ -6,19 +6,18 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=798
 permalink: /2015/11/20/salted-caramel-pecan-cookies/
+thumbnail: /img/thumbnails/2015-11-20-salted-caramel-pecan-cookies.jpg
 amazon:
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:
   - caramel
-  - cookie
   - pecan
 ---
-<input class="jpibfi" type="hidden" />
 
-[<img class="alignnone size-full wp-image-801" alt="Salted Caramel Pecan Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-02.jpg)
+{: .post-image}
+![Salted Caramel Pecan Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-02.jpg){:height="828" width="552"}
 
 Dear Friends,
 
@@ -26,15 +25,17 @@ Sorry I have been MIA for nearly two years. This is long over due and I am very 
 
 I will try to post one recipe per week and sometimes might have to keep it simple with a short description in the post. After all, it is the amazing recipes I&#8217;d like to share with you the most rather than writing long posts.
 
-[<img class="alignnone size-full wp-image-800" alt="Salted Caramel Pecan Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-01.jpg)
+<!--more-->
+
+{: .post-image}
+![Salted Caramel Pecan Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-01.jpg){:height="828" width="552"}
 
 For you Pecan pie lovers, this Salted Caramel Pecan cookies will take you to a whole different level of pecan pie heaveness! Even for the non pecan pie lovers, you will fall in love with these babies once you take a bite! It is a combination of vanilla base cookie drizzled with salted caramel and topped with toasted pecans.  You will have lots of left over salted caramel sauce that can be stored in an air tight jar in the fridge for up to one month.  You can add it into your coffees, ice creams and &#8230; whatever you fancy.
 
 American Thanksgiving is coming up, you can wow your guests with these elegant cookies instead of the traditional pecan pie! They are perfect for parties or as a gift.
 
-<!--more-->
-
-[<img class="alignnone size-full wp-image-802" alt="Salted Caramel Pecan Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-03.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-03.jpg)
+{: .post-image}
+![Salted Caramel Pecan Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-03.jpg){:height="828" width="552"}
 
 <div class="recipe-box">
   <h2 class="recipe-title">

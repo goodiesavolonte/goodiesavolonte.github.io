@@ -6,10 +6,9 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=429
 permalink: /2013/10/04/beef-bacon-baked-pasta/
+thumbnail: /img/thumbnails/2013-10-04-beef-bacon-baked-pasta.jpg
 categories:
-  - Cooking
   - Mains
-  - Pasta
 tags:
   - bacon
   - beef

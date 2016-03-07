@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=627
 permalink: /2013/11/03/thin-crispy-coconut-cookies/
+thumbnail: /img/thumbnails/2013-11-03-thin-crispy-coconut-cookies.jpg
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:

@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=504
 permalink: /2013/10/12/roasted-garlic-pumpkin-leek-soup/
+thumbnail: /img/thumbnails/2013-10-12-roasted-garlic-pumpkin-leek-soup.jpg
 categories:
-  - Cooking
   - Soup
 tags:
   - garlic

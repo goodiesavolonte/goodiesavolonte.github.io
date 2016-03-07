@@ -6,16 +6,14 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=229
 permalink: /2013/09/08/sichuan-peppercorn-tofu-salad/
+thumbnail: /img/thumbnails/2013-09-08-sichuan-peppercorn-tofu-salad.jpg
 featured:
   - 1
 categories:
   - Asian
-  - Cooking
   - Salads
 tags:
-  - salad
-  - sichuan
-  - sichuan peppercorn
+  - pepper
   - tofu
 ---
 <input class="jpibfi" type="hidden" />

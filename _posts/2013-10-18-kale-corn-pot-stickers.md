@@ -6,14 +6,13 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=531
 permalink: /2013/10/18/kale-corn-pot-stickers/
+thumbnail: /img/thumbnails/2013-10-18-kale-corn-pot-stickers.jpg
 categories:
   - Appetizers
   - Asian
-  - Cooking
 tags:
   - corn
   - kale
-  - wonton
 ---
 <input class="jpibfi" type="hidden" />
 

@@ -6,13 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=668
 permalink: /2013/11/12/5-minute-whole-grain-loaf/
+thumbnail: /img/thumbnails/2013-11-12-5-minute-whole-grain-loaf.jpg
 categories:
   - Bread
   - Breakfast
-  - Cooking
 tags:
   - whole grain
-  - whole wheat
 ---
 <input class="jpibfi" type="hidden" />
 

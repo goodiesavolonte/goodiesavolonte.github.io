@@ -6,13 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=724
 permalink: /2013/11/23/hazelnut-chocolate-sandies/
+thumbnail: /img/thumbnails/2013-11-23-hazelnut-chocolate-sandies.jpg
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:
   - chocolate
-  - cookie
   - hazelnut
 ---
 <input class="jpibfi" type="hidden" />

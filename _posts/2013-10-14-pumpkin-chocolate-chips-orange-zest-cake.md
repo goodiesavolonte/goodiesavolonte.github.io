@@ -6,8 +6,8 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=513
 permalink: /2013/10/14/pumpkin-chocolate-chips-orange-zest-cake/
+thumbnail: /img/thumbnails/2013-10-14-pumpkin-chocolate-chips-orange-zest-cake.jpg
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:

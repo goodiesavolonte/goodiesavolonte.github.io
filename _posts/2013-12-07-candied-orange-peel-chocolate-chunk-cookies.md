@@ -1,23 +1,22 @@
 ---
 id: 785
-title: 'Candied Orange Peel &#038; Chocolate Chunk Cookies'
+title: 'Candied Orange Peel & Chocolate Chunk Cookies'
 date: 2013-12-07T04:43:51+00:00
 author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=785
 permalink: /2013/12/07/candied-orange-peel-chocolate-chunk-cookies/
+thumbnail: /img/thumbnails/2013-12-07-candied-orange-peel-chocolate-chunk-cookies.jpg
 categories:
-  - Cooking
   - Pastry
   - Snacks
 tags:
   - chocolate
-  - cookie
   - orange
 ---
-<input class="jpibfi" type="hidden" />
 
-[<img class="alignnone size-full wp-image-790" alt="Candied Orange Peel & Chocolate Chunks Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-01.jpg)
+{: .post-image}
+![Candied Orange Peel & Chocolate Chunk Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-01.jpg){:height="828" width="552"}
 
 If you&#8217;ve been following our blog, you may have noticed that we like to experiment with ingredients and flavors. Of course, it&#8217;s not always like that, especially during the week when cooking the daily lunches and dinners, we usually stick to what we know. But we always try to cook something new during the weekend to make it more interesting. I guess we have the same approach for this blog. We could write about another double chocolate chip cookie recipe but I think the internet has so many great recipes already that I don&#8217;t think it would be interesting for you to read. Now, what if I add candied orange peel?
 
@@ -27,7 +26,8 @@ I&#8217;ve already talked about my love for orange and chocolate not so long ago
 
 Candied orange peel can be bought in store if you want to save some time but if you feel like making them, like I did, here&#8217;s a [simple recipe](http://www.bonappetit.com/recipe/simple-candied-orange-peel). I should warn you that it takes some time, especially the drying part, so plan ahead. I also skip the last sugar coat because, well, it&#8217;s a lot of sugar.
 
-[<img class="alignnone size-full wp-image-789" alt="Candied Orange Peel & Chocolate Chunks Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-02.jpg)
+{: .post-image}
+![Candied Orange Peel & Chocolate Chunk Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-02.jpg){:height="828" width="552"}
 
 <div class="recipe-box">
   <h2 class="recipe-title">

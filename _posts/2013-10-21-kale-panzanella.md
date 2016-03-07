@@ -6,14 +6,12 @@ author: Cecilia
 layout: post
 guid: http://www.goodiesavolonte.com/?p=544
 permalink: /2013/10/21/kale-panzanella/
+thumbnail: /img/thumbnails/2013-10-21-kale-panzanella.jpg
 categories:
-  - Cooking
   - Salads
 tags:
-  - bread
   - garlic
   - kale
-  - pine nut
   - tomato
 ---
 <input class="jpibfi" type="hidden" />
