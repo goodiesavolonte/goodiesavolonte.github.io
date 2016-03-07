@@ -744,7 +744,17 @@ footer .site-info {
 footer .nav-menu a {
 	text-transform: uppercase;
 }
-
+#social-share {
+	margin-top: 20px;
+}
+.social-share-url {
+	margin-top: 10px;
+}
+#social-share p,
+.social-share-url p {
+	display: inline-block;
+	margin-right: 2px;
+}
 
 /* =Main content and comment content
 -------------------------------------------------------------- */

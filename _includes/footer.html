@@ -17,3 +17,40 @@
     <p>&copy; {{ site.title }} 2016. Please contact to use any material on this website.</p>
   </div><!-- .site-info -->
 </footer><!-- #colophon -->
+
+<script src={{ "/js/ayoshare.js" | prepend: site.baseurl }}></script>        
+  <script>
+    $(function() {
+        $(".social-share-url").each(function() {
+          var share_url = $(this).data("url");
+          $(this).ayoshare(
+            url = share_url,
+            google = true,
+            stumbleupon = false,
+            facebook = true,
+            linkedin = false,
+            pinterest = true,
+            bufferapp = false,
+            reddit = false,
+            vk = false,
+            pocket = false,
+            twitter = true
+          );
+        });
+    });
+    $(function() {
+        $("#social-share").ayoshare(
+            url = location.href,
+            google = true,
+            stumbleupon = false,
+            facebook = true,
+            linkedin = false,
+            pinterest = true,
+            bufferapp = false,
+            reddit = false,
+            vk = false,
+            pocket = false,
+            twitter = true
+        );
+    });
+  </script>

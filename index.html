@@ -22,7 +22,7 @@ layout: default
     {% for tag in post.tags %}
     <a href="{{ site.baseurl }}/recipes/#{{ tag }}">{{ tag | capitalize }}</a>
     {% endfor %}
-    <div class="social-share" data-url="{{ post.url | prepend: site.baseurl }}"></div>
+    <div class="social-share-url" data-url="{{ post.url | prepend: site.baseurl | prepend: site.url }}"></div>
   </footer>
 </article>
 {% endfor %}

@@ -16,43 +16,43 @@ $.fn.ayoshare = function() {
 	var xxx = ($(this).attr('id') != null) ? '#'+$(this).attr('id') : '.'+$(this).attr('class');
     
 	if (facebook == true) {
-        html += '<p><a href="http://www.facebook.com/sharer/sharer.php?u=' + b + '" onclick="javascript:void window.open(\'http://www.facebook.com/sharer/sharer.php?u=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-facebook" title="Facebook"><i class="fa fa-facebook"></i> <span class="ayo_count_fb"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="http://www.facebook.com/sharer/sharer.php?u=' + b + '" onclick="javascript:void window.open(\'http://www.facebook.com/sharer/sharer.php?u=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-facebook" title="Facebook"><i class="fa fa-facebook"></i> <span class="ayo_count_fb"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_facebook(b, xxx)
     }
     if (twitter == true) {
-        html += '<p><a href="https://twitter.com/share?text=' + a + '+-+via @bachors&url=' + b + '" onclick="javascript:void window.open(\'https://twitter.com/share?text=' + a + '+-+via @bachors&url=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-twitter" title="Twitter"><i class="fa fa-twitter"></i> <span class="ayo_count_tw"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
-        ayo_twitter(b, xxx)
+        html += '<p><a href="https://twitter.com/share?text=' + a + '&url=' + b + '" onclick="javascript:void window.open(\'https://twitter.com/share?text=' + a + '&url=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-twitter" title="Twitter"><i class="fa fa-twitter"></i></a></p>'
+        //ayo_twitter(b, xxx)
     }
     if (google == true) {
-        html += '<p><a href="https://plus.google.com/share?url=' + b + '" onclick="javascript:void window.open(\'https://plus.google.com/share?url=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-google" title="Google+"><i class="fa fa-google-plus"></i> <span class="ayo_count_gp"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="https://plus.google.com/share?url=' + b + '" onclick="javascript:void window.open(\'https://plus.google.com/share?url=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-google" title="Google+"><i class="fa fa-google-plus"></i> <span class="ayo_count_gp"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_google(b, xxx)
     }
     if (reddit == true) {
-        html += '<p><a href="http://reddit.com/submit?url=' + b + '&title=' + a + '+-+via @bachors" onclick="javascript:void window.open(\'http://reddit.com/submit?url=' + b + '&title=' + a + '+-+via @bachors\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-reddit" title="Reddit"><i class="fa fa-reddit"></i> <span class="ayo_count_rd"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="http://reddit.com/submit?url=' + b + '&title=' + a + '" onclick="javascript:void window.open(\'http://reddit.com/submit?url=' + b + '&title=' + a + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-reddit" title="Reddit"><i class="fa fa-reddit"></i> <span class="ayo_count_rd"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_reddit(b, xxx)
     }
     if (linkedin == true) {
-        html += '<p><a href="https://www.linkedin.com/shareArticle?mini=true&url=' + b + '&title=' + a + '&summary=' + desk + '" onclick="javascript:void window.open(\'https://www.linkedin.com/shareArticle?mini=true&url=' + b + '&title=' + a + '&summary=' + desk + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-linkedin" title="Linkedin"><i class="fa fa-linkedin"></i> <span class="ayo_count_in"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="https://www.linkedin.com/shareArticle?mini=true&url=' + b + '&title=' + a + '&summary=' + desk + '" onclick="javascript:void window.open(\'https://www.linkedin.com/shareArticle?mini=true&url=' + b + '&title=' + a + '&summary=' + desk + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-linkedin" title="Linkedin"><i class="fa fa-linkedin"></i> <span class="ayo_count_in"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_linkedin(b, xxx)
     }
     if (pinterest == true) {
-        html += '<p><a href="http://pinterest.com/pin/create/button/?url=' + b + '&media=' + img + '&description=' + desk + '" onclick="javascript:void window.open(\'http://pinterest.com/pin/create/button/?url=' + b + '&media=' + img + '&description=' + desk + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-pinterest" title="Pinterest"><i class="fa fa-pinterest"></i> <span class="ayo_count_pn"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="http://pinterest.com/pin/create/button/?url=' + b + '&media=' + img + '&description=' + desk + '" onclick="javascript:void window.open(\'http://pinterest.com/pin/create/button/?url=' + b + '&media=' + img + '&description=' + desk + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-pinterest" title="Pinterest"><i class="fa fa-pinterest"></i> <span class="ayo_count_pn"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_pinterest(b, xxx)
     }
     if (stumbleupon == true) {
-        html += '<p><a href="http://www.stumbleupon.com/badge/?url=' + b + '" onclick="javascript:void window.open(\'http://www.stumbleupon.com/badge/?url=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-stumbleupon" title="Stumbleupon"><i class="fa fa-stumbleupon"></i> <span class="ayo_count_up"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="http://www.stumbleupon.com/badge/?url=' + b + '" onclick="javascript:void window.open(\'http://www.stumbleupon.com/badge/?url=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-stumbleupon" title="Stumbleupon"><i class="fa fa-stumbleupon"></i> <span class="ayo_count_up"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_stumbleupon(b, xxx)
     }
     if (bufferapp == true) {
-        html += '<p><a href="https://bufferapp.com/add?url=' + b + '&text=' + desk + '" onclick="javascript:void window.open(\'https://bufferapp.com/add?url=' + b + '&text=' + desk + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-buffer" title="Bufferapp"><i class="fa fa-bars"></i> <span class="ayo_count_bf"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="https://bufferapp.com/add?url=' + b + '&text=' + desk + '" onclick="javascript:void window.open(\'https://bufferapp.com/add?url=' + b + '&text=' + desk + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-buffer" title="Bufferapp"><i class="fa fa-bars"></i> <span class="ayo_count_bf"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_bufferapp(b, xxx)
     }
     if (vk == true) {
-        html += '<p><a href="http://vk.com/share.php?url=' + b + '" onclick="javascript:void window.open(\'http://vk.com/share.php?url=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-vk" title="VK"><i class="fa fa-vk"></i> <span class="ayo_count_vk"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="http://vk.com/share.php?url=' + b + '" onclick="javascript:void window.open(\'http://vk.com/share.php?url=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-vk" title="VK"><i class="fa fa-vk"></i> <span class="ayo_count_vk"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_vk(b, xxx)
     }
     if (pocket == true) {
-        html += '<p><a href="https://getpocket.com/save?title=' + a + '&url=' + b + '" onclick="javascript:void window.open(\'https://getpocket.com/save?title=' + a + '&url=' + b + '\',\'ibacor.com\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-pocket" title="Pocket"><i class="fa fa-get-pocket"></i> <span class="ayo_count_pc"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
+        html += '<p><a href="https://getpocket.com/save?title=' + a + '&url=' + b + '" onclick="javascript:void window.open(\'https://getpocket.com/save?title=' + a + '&url=' + b + '\',\'\',\'width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0\');return false;" class="ayo-btn ayo-pocket" title="Pocket"><i class="fa fa-get-pocket"></i> <span class="ayo_count_pc"><i class="fa fa-spinner fa-spin"></i></span></a></p>'
         ayo_pocket(b, xxx)
     }
 
@@ -79,7 +79,7 @@ $.fn.ayoshare = function() {
             crossDomain: true,
             dataType: 'jsonp',
             success: function(a) {
-                var b = ayo_num(a[0].share_count);
+                var b = (typeof a[0] === 'undefined') ? 0 : ayo_num(a[0].share_count);
                 $(xxx + ' .ayo_count_fb').html(b)
             },
             error: function() {
