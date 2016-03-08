@@ -23,7 +23,7 @@ Dear Friends,
 
 Sorry I have been MIA for nearly two years. This is long over due and I am very excited to get back to blogging! A lot has happened in the past two years and I do not want to bore you with every single detail so I will give you some of the highlights. I was pregnant with baby no. 2 and in the first trimester the last time I blogged. I was home taking care of a two year old and feeling nauseous most of the time from the pregnancy therefore I decided to take a break from blogging. We welcomed a new addition, Andre was born last year in August. Having a toddler and a baby kept me even busier than ever! We moved from a condo to a house this summer and we still have boxes to unpack and lots work to do in the house.
 
-I will try to post one recipe per week and sometimes might have to keep it simple with a short description in the post. After all, it is the amazing recipes I&#8217;d like to share with you the most rather than writing long posts.
+I will try to post one recipe per week and sometimes might have to keep it simple with a short description in the post. After all, it is the amazing recipes I'd like to share with you the most rather than writing long posts.
 
 <!--more-->
 
@@ -132,7 +132,7 @@ American Thanksgiving is coming up, you can wow your guests with these elegant c
   
   <ol>
     <li>
-      Heat sugar in a medium saucepan over medium heat.  Whisk the sugar until it has completely melted. Stop whisking once it&#8217;s melted.  The sugar will caramelized rapidly.
+      Heat sugar in a medium saucepan over medium heat.  Whisk the sugar until it has completely melted. Stop whisking once it's melted.  The sugar will caramelized rapidly.
     </li>
     <li>
       Once it has reached a brown amber color, stir in the butter and whisk until melted.

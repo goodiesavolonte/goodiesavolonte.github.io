@@ -18,17 +18,17 @@ tags:
 
 [<img class="alignnone size-full wp-image-696" alt="Chinese Beef Roll" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-beef-rolls-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-beef-rolls-02.jpg)
 
-Chinese beef rolls or Niu Rou Jian Bing in Chinese. These bad boys are in my top 5 street food. I&#8217;ll give you a short description if you&#8217;ve never had them. Slow cooked tender beef, greens, sweet bean sauce, all rolled in a thin, crispy and flaky scallion pancake. No need to tell you it&#8217;s ridiculously good. You can usually find these rolls in Northern Chinese cuisine restaurants but the good news is you can also make them yourself.
+Chinese beef rolls or Niu Rou Jian Bing in Chinese. These bad boys are in my top 5 street food. I'll give you a short description if you've never had them. Slow cooked tender beef, greens, sweet bean sauce, all rolled in a thin, crispy and flaky scallion pancake. No need to tell you it's ridiculously good. You can usually find these rolls in Northern Chinese cuisine restaurants but the good news is you can also make them yourself.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-704" alt="Chinese Scallion Pancake" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-01.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-01.jpg) [<img class="alignnone size-full wp-image-703" alt="Chinese Scallion Pancake" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-02.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-02.jpg) [<img class="alignnone size-full wp-image-702" alt="Chinese Scallion Pancake" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-03.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-03.jpg) [<img class="alignnone size-full wp-image-701" alt="Chinese Scallion Pancake" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-04.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-scallion-pancake-04.jpg)
 
-First, the beef (usually beef shank) is slow cooked with asian spices. It can be used right away but like it&#8217;s often the case with slow cooked beef, it gets better the next day. The flavors of the broth gets deeper into the meat and it&#8217;s also more tender. It&#8217;s actually quite convenient if you&#8217;re having people over or preparing your food for the week. Most of the work is done, and all you have to prepare are the pancakes.
+First, the beef (usually beef shank) is slow cooked with asian spices. It can be used right away but like it's often the case with slow cooked beef, it gets better the next day. The flavors of the broth gets deeper into the meat and it's also more tender. It's actually quite convenient if you're having people over or preparing your food for the week. Most of the work is done, and all you have to prepare are the pancakes.
 
 [<img class="alignnone size-full wp-image-697" alt="Chinese Beef Roll" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-beef-rolls-03.gif" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Chinese-beef-rolls-03.gif)
 
-In China, there are two types of pancakes you can find. One is a very thin pancake, similar to a crepe. The other, which I&#8217;m making in this recipe is more like a thin flatbread. It&#8217;s spread with vegetable shortening and chopped scallions, rolled up, and rolled out again to create flaky layers.
+In China, there are two types of pancakes you can find. One is a very thin pancake, similar to a crepe. The other, which I'm making in this recipe is more like a thin flatbread. It's spread with vegetable shortening and chopped scallions, rolled up, and rolled out again to create flaky layers.
 
 Enjoy!
 

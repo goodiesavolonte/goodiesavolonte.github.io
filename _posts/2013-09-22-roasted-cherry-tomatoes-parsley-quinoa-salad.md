@@ -18,15 +18,15 @@ tags:
 
 [<img class="alignnone size-full wp-image-327" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5398.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5398.jpg)
 
-Every couple has their classic recipes. This quinoa salad is one of ours. Nico actually came up with the recipe. It has rich flavors yet it is light and refreshing. I find it perfect for a quick lunch but you can also serve it as a side (it&#8217;s great with barbecue ribs!). I can hear you thinking &#8220;great, another quinoa salad&#8221;, but I really think you&#8217;ll enjoy it if you give it a try.
+Every couple has their classic recipes. This quinoa salad is one of ours. Nico actually came up with the recipe. It has rich flavors yet it is light and refreshing. I find it perfect for a quick lunch but you can also serve it as a side (it's great with barbecue ribs!). I can hear you thinking &#8220;great, another quinoa salad&#8221;, but I really think you'll enjoy it if you give it a try.
 
 [<img class="alignnone size-full wp-image-328" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5388.jpg" width="552" height="394" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5388.jpg)
 
-It&#8217;s made with simple ingredients: tomato, garlic, parsley. Nothing too fancy here, except maybe for the pine nuts. The tomatoes and garlic are first roasted which brings a nice sweetness to the salad. I know some people are afraid of garlic but raw and roasted garlic are miles away. Then you have the toasted pine nuts for added texture and richness. And finally parsley, which is almost the main ingredient. Yes, you&#8217;ll need a big bunch, and preferably the flat kind.
+It's made with simple ingredients: tomato, garlic, parsley. Nothing too fancy here, except maybe for the pine nuts. The tomatoes and garlic are first roasted which brings a nice sweetness to the salad. I know some people are afraid of garlic but raw and roasted garlic are miles away. Then you have the toasted pine nuts for added texture and richness. And finally parsley, which is almost the main ingredient. Yes, you'll need a big bunch, and preferably the flat kind.
 
 [<img class="alignnone size-full wp-image-322" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5372.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5372.jpg)
 
-_Nico&#8217;s wine pairing: You could probably go with any color as long as it&#8217;s not too powerful. I would go with a light juicy and spicy red like Morgon (Gamay)._
+_Nico's wine pairing: You could probably go with any color as long as it's not too powerful. I would go with a light juicy and spicy red like Morgon (Gamay)._
 
 <!--more-->
 
@@ -36,15 +36,15 @@ _Nico&#8217;s wine pairing: You could probably go with any color as long as it&#
 
 [<img class="alignnone size-full wp-image-327" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5398.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5398.jpg)
 
-Every couple has their classic recipes. This quinoa salad is one of ours. Nico actually came up with the recipe. It has rich flavors yet it is light and refreshing. I find it perfect for a quick lunch but you can also serve it as a side (it&#8217;s great with barbecue ribs!). I can hear you thinking &#8220;great, another quinoa salad&#8221;, but I really think you&#8217;ll enjoy it if you give it a try.
+Every couple has their classic recipes. This quinoa salad is one of ours. Nico actually came up with the recipe. It has rich flavors yet it is light and refreshing. I find it perfect for a quick lunch but you can also serve it as a side (it's great with barbecue ribs!). I can hear you thinking &#8220;great, another quinoa salad&#8221;, but I really think you'll enjoy it if you give it a try.
 
 [<img class="alignnone size-full wp-image-328" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5388.jpg" width="552" height="394" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5388.jpg)
 
-It&#8217;s made with simple ingredients: tomato, garlic, parsley. Nothing too fancy here, except maybe for the pine nuts. The tomatoes and garlic are first roasted which brings a nice sweetness to the salad. I know some people are afraid of garlic but raw and roasted garlic are miles away. Then you have the toasted pine nuts for added texture and richness. And finally parsley, which is almost the main ingredient. Yes, you&#8217;ll need a big bunch, and preferably the flat kind.
+It's made with simple ingredients: tomato, garlic, parsley. Nothing too fancy here, except maybe for the pine nuts. The tomatoes and garlic are first roasted which brings a nice sweetness to the salad. I know some people are afraid of garlic but raw and roasted garlic are miles away. Then you have the toasted pine nuts for added texture and richness. And finally parsley, which is almost the main ingredient. Yes, you'll need a big bunch, and preferably the flat kind.
 
 [<img class="alignnone size-full wp-image-322" alt="Roasted Tomatoes Parsley Quinoa Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5372.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5372.jpg)
 
-_Nico&#8217;s wine pairing: You could probably go with any color as long as it&#8217;s not too powerful. I would go with a light juicy and spicy red like Morgon (Gamay)._
+_Nico's wine pairing: You could probably go with any color as long as it's not too powerful. I would go with a light juicy and spicy red like Morgon (Gamay)._
 
 <!--more-->
 

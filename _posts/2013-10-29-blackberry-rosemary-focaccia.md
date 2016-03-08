@@ -1,6 +1,6 @@
 ---
 id: 592
-title: 'Blackberry &#038; Rosemary Focaccia'
+title: 'Blackberry & Rosemary Focaccia'
 date: 2013-10-29T03:16:03+00:00
 author: Cecilia
 layout: post
@@ -20,7 +20,7 @@ tags:
 
 [<img class="alignnone size-full wp-image-596" alt="Rosemary and Blackberry Focaccia" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6293.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6293.jpg)
 
-I really love when I combine two ingredients for the first time and it magically works. That&#8217;s what happened to us this weekend when we made this bread. Sometimes, a combination sounds good but the magic is missing when executed. But that&#8217;s not the case with blackberry and rosemary, these two are natural. They even sounds like two sisters.
+I really love when I combine two ingredients for the first time and it magically works. That's what happened to us this weekend when we made this bread. Sometimes, a combination sounds good but the magic is missing when executed. But that's not the case with blackberry and rosemary, these two are natural. They even sounds like two sisters.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ I think we started to realize that when we started to smell the sweet perfume co
 
 [<img class="alignnone size-full wp-image-595" alt="Rosemary and Blackberry Focaccia" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6279.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6279.jpg)
 
-The only downside is that there wasn&#8217;t enough in the bread. After all it&#8217;s a bread, not a pie or a tart. But it was enough to keep you want more which is kind of the idea. I really can&#8217;t wait to try this in other ways. In the mean time, here&#8217;s a great focaccia recipe that I hope you&#8217;ll enjoy.
+The only downside is that there wasn't enough in the bread. After all it's a bread, not a pie or a tart. But it was enough to keep you want more which is kind of the idea. I really can't wait to try this in other ways. In the mean time, here's a great focaccia recipe that I hope you'll enjoy.
 
 [<img class="alignnone size-full wp-image-597" alt="Rosemary and Blackberry Focaccia" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6298.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6298.jpg)
 

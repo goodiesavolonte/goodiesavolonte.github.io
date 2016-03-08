@@ -1,6 +1,6 @@
 ---
 id: 83
-title: 'Chocolate Chunk &#038; Pecan Cookies'
+title: 'Chocolate Chunk & Pecan Cookies'
 date: 2013-09-04T02:38:21+00:00
 author: Cecilia
 layout: post
@@ -19,13 +19,13 @@ tags:
 {: .post-image}
 ![image1](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_50841.jpg){:height="773" width="552"}
 
-Do you like cookies? We LOVE cookies. . . I mean who doesn&#8217;t?
+Do you like cookies? We LOVE cookies. . . I mean who doesn't?
   
-We&#8217;ve always been searching for the perfect soft and chewy cookie recipe. All the recipes we&#8217;ve tried have never reached our expectations. Not until. . . last Christmas. My husband gave me Thomas Keller&#8217;s Bouchon Bakery book as a Christmas present. If you are into baking and making decent artisan bread then this is the right book. This book covers from classic french pastry to more modern american with great attention to details.
+We've always been searching for the perfect soft and chewy cookie recipe. All the recipes we've tried have never reached our expectations. Not until. . . last Christmas. My husband gave me Thomas Keller's Bouchon Bakery book as a Christmas present. If you are into baking and making decent artisan bread then this is the right book. This book covers from classic french pastry to more modern american with great attention to details.
 
-This recipe is adapted from the Chocolate Chunk and Chip Cookies in the book. I find the original recipe a bit too sweet for my taste. So, I&#8217;ve decreased the amount of sugar, but not too much to affect the texture of the cookie. With this basic cookie dough you can incorporate any ingredients that you desire like. . . pecans? The toasted pecans add a nuttiness and a nice bite and pairs well with the chocolate. I prefer to use strong dark chocolate with higher percentage of cocoa like 70 or 80%.  The recipe requires 60 grams of eggs..how do you measure precisely? I used 1 large egg plus approximately 1 teaspoon.  I simply gave the egg a light whisk just to incorporate the white and yolk, then use the scale to achieve the accurate amount.
+This recipe is adapted from the Chocolate Chunk and Chip Cookies in the book. I find the original recipe a bit too sweet for my taste. So, I've decreased the amount of sugar, but not too much to affect the texture of the cookie. With this basic cookie dough you can incorporate any ingredients that you desire like. . . pecans? The toasted pecans add a nuttiness and a nice bite and pairs well with the chocolate. I prefer to use strong dark chocolate with higher percentage of cocoa like 70 or 80%.  The recipe requires 60 grams of eggs..how do you measure precisely? I used 1 large egg plus approximately 1 teaspoon.  I simply gave the egg a light whisk just to incorporate the white and yolk, then use the scale to achieve the accurate amount.
 
-Give this recipe a try and let me know if this is the best cookie you&#8217;ve ever had!!!
+Give this recipe a try and let me know if this is the best cookie you've ever had!!!
 
 <!--more-->
 

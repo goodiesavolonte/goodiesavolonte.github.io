@@ -1,6 +1,6 @@
 ---
 id: 429
-title: 'Beef &#038; Bacon Baked Pasta'
+title: 'Beef & Bacon Baked Pasta'
 date: 2013-10-04T02:55:38+00:00
 author: Cecilia
 layout: post
@@ -20,17 +20,17 @@ tags:
 
 [<img class="alignnone size-full wp-image-434" alt="Bacon & Beef Baked Pasta" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5726.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5726.jpg)
 
-Yay! We passed our first month of blogging! I know it&#8217;s a little bit early to celebrate but we&#8217;ve put a lot of effort and heart into it so this feels like a little achievement for us. We had over 5000 visits and 7000 page views, from almost 100 countries. I don&#8217;t know if these are considered good numbers but I think it&#8217;s pretty amazing. Thank you to those who&#8217;ve been reading us. We really hope you enjoy our recipes because there is more coming! Just to tease you, next week we&#8217;ll do a special week dedicated to pumpkin to celebrate fall. So stay tuned!
+Yay! We passed our first month of blogging! I know it's a little bit early to celebrate but we've put a lot of effort and heart into it so this feels like a little achievement for us. We had over 5000 visits and 7000 page views, from almost 100 countries. I don't know if these are considered good numbers but I think it's pretty amazing. Thank you to those who've been reading us. We really hope you enjoy our recipes because there is more coming! Just to tease you, next week we'll do a special week dedicated to pumpkin to celebrate fall. So stay tuned!
 
 <img class="alignnone size-full wp-image-435" alt="Bacon & Beef Baked Pasta" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5736.jpg" width="552" height="828" />
 
-Ok, now you probably want to hear about this beef & bacon baked pasta (I know, that&#8217;s a lot of B&#8217;s). It&#8217;s a classic baked pasta recipe. Pasta, tomato and meat sauce, cheese. It&#8217;s a great recipe for weekdays, even better if you have leftover tomato sauce or pasta. If you make everything from scratch, it will take about 30 minutes to prepare. And if you&#8217;re feeling a bit lazy (that&#8217;s alright), you can make a bigger batch and heat up the leftover the next days.
+Ok, now you probably want to hear about this beef & bacon baked pasta (I know, that's a lot of B's). It's a classic baked pasta recipe. Pasta, tomato and meat sauce, cheese. It's a great recipe for weekdays, even better if you have leftover tomato sauce or pasta. If you make everything from scratch, it will take about 30 minutes to prepare. And if you're feeling a bit lazy (that's alright), you can make a bigger batch and heat up the leftover the next days.
 
 [<img class="alignnone size-full wp-image-433" alt="Bacon & Beef Baked Pasta" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5713.jpg" width="552" height="368" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5713.jpg)
 
-Here&#8217;s a few tips. I use Rotini pasta because it holds the sauce well. Penne or Farfalle is also a good choice. I first cook them until firm so they don&#8217;t end up too soft after baking. If you like your cheese a bit more brown, sort of like a crust, leave the dish in the oven for a little longer. If you prefer a more gooey runny cheese, remove it earlier. Finally, top with fresh basil before serving if you have some.
+Here's a few tips. I use Rotini pasta because it holds the sauce well. Penne or Farfalle is also a good choice. I first cook them until firm so they don't end up too soft after baking. If you like your cheese a bit more brown, sort of like a crust, leave the dish in the oven for a little longer. If you prefer a more gooey runny cheese, remove it earlier. Finally, top with fresh basil before serving if you have some.
 
-_Nico&#8217;s wine pairing: For this hearty meat sauce, I would go for a smooth and fruity red with enough tannic structure. Since we&#8217;re talking about pasta, Italy comes to mind. Try a Sangiovese based wine like Chianti._
+_Nico's wine pairing: For this hearty meat sauce, I would go for a smooth and fruity red with enough tannic structure. Since we're talking about pasta, Italy comes to mind. Try a Sangiovese based wine like Chianti._
 
 <!--more-->
 
@@ -101,7 +101,7 @@ _Nico&#8217;s wine pairing: For this hearty meat sauce, I would go for a smooth 
   
   <ol>
     <li>
-      Cook pasta until firm. Run under cold water after it&#8217;s done cooking, drain and set aside.
+      Cook pasta until firm. Run under cold water after it's done cooking, drain and set aside.
     </li>
     <li>
       Combine crushed tomatoes, garlic, vinegar, olive oil, salt, sugar, worcestershire sauce, black pepper, italian seasoning and cayenne pepper in a medium bowl. Set aside.

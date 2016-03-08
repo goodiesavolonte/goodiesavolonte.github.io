@@ -17,11 +17,11 @@ tags:
 
 <a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5643.jpg"><img class="alignnone size-full wp-image-378" alt="Avocado Tartine" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5643.jpg" width="552" height="828" /></a>
 
-Avocado is one of those ingredients that doesn&#8217;t need much help to be turned into a delicious dish. It&#8217;s just good on its own and adding too many ingredients would just hide its subtle nuances. Our favorite guacamole, for example, is made with tomato, shallot, coriander, salt and pepper. Simple. It doesn&#8217;t mean you can&#8217;t be creative. I&#8217;m sure there are tons of ingredients that would pair well with avocado, but moderation is key. Here&#8217;s one way to make a simple and beautiful avocado tartine. You almost don&#8217;t want to eat it but honestly it&#8217;s irresistible.
+Avocado is one of those ingredients that doesn't need much help to be turned into a delicious dish. It's just good on its own and adding too many ingredients would just hide its subtle nuances. Our favorite guacamole, for example, is made with tomato, shallot, coriander, salt and pepper. Simple. It doesn't mean you can't be creative. I'm sure there are tons of ingredients that would pair well with avocado, but moderation is key. Here's one way to make a simple and beautiful avocado tartine. You almost don't want to eat it but honestly it's irresistible.
 
 <a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5645.jpg"><img class="alignnone size-full wp-image-379" alt="Avocado Tartine" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5645.jpg" width="552" height="552" /></a><a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5646.jpg"><img class="alignnone size-full wp-image-380" alt="Avocado Tartine" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5646.jpg" width="552" height="828" /></a>
 
-_Nico&#8217;s wine pairing: A light and crisp Sauvignon Blanc, preferably Sancerre or Pouilly-Fumé._
+_Nico's wine pairing: A light and crisp Sauvignon Blanc, preferably Sancerre or Pouilly-Fumé._
 
 <!--more-->
 

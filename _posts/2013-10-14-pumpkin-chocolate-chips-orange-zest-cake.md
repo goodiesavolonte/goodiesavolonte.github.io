@@ -1,6 +1,6 @@
 ---
 id: 513
-title: 'Pumpkin Chocolate Chips &#038; Orange Zest Cake'
+title: 'Pumpkin Chocolate Chips & Orange Zest Cake'
 date: 2013-10-14T18:37:52+00:00
 author: Cecilia
 layout: post
@@ -19,15 +19,15 @@ tags:
 
 [<img class="alignnone size-full wp-image-516" alt="Pumpkin Chocolate Chips Orange Zest Pound Cake" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5686.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5686.jpg)
 
-7 days and 6 pumpkins later, our pumpkin week is coming to an end. We discovered a great ingredient to cook with and no longer will it be ignored when we go grocery shopping. Pumpkin is not the kind of product that is great on its own but combined with the right ingredients, it can be delicious. Possibilities are endless but here are a few ideas if you&#8217;ve missed them:
+7 days and 6 pumpkins later, our pumpkin week is coming to an end. We discovered a great ingredient to cook with and no longer will it be ignored when we go grocery shopping. Pumpkin is not the kind of product that is great on its own but combined with the right ingredients, it can be delicious. Possibilities are endless but here are a few ideas if you've missed them:
 
   * [Pumpkin Pancakes with Salted Caramel Apple Sauce](http://www.goodiesavolonte.com/2013/10/08/pumpkin-pancakes-with-salted-caramel-apple-sauce/ "Pumpkin Pancakes with Salted Caramel Apple Sauce")
   * [Pumpkin Gnocchi with Bacon & Peas](http://www.goodiesavolonte.com/2013/10/10/pumpkin-gnocchi-with-bacon-peas/ "Pumpkin Gnocchi with Bacon & Peas")
   * [Roasted Garlic, Pumpkin & Leek Soup](http://www.goodiesavolonte.com/2013/10/12/roasted-garlic-pumpkin-leek-soup/ "Roasted Garlic, Pumpkin & Leek Soup")
 
-To end this week on a sweet note, here&#8217;s a delicious pound cake recipe. It&#8217;s perfectly moist, fragrant and it has chocolate! Orange and chocolate are like best friends, they go together so well! I can&#8217;t wait to make chocolate covered orange peel again this year.
+To end this week on a sweet note, here's a delicious pound cake recipe. It's perfectly moist, fragrant and it has chocolate! Orange and chocolate are like best friends, they go together so well! I can't wait to make chocolate covered orange peel again this year.
 
-Concerning the blog, we just added email updates so if you like our recipes, don&#8217;t hesitate to [subscribe](http://www.goodiesavolonte.com/subscribe/ "Subscribe"). Also, Nico has been working on improving the usability of the blog. You now have a better way to browse all our recipes and it&#8217;s all [here](http://www.goodiesavolonte.com/recipes/ "Recipe Index").
+Concerning the blog, we just added email updates so if you like our recipes, don't hesitate to [subscribe](http://www.goodiesavolonte.com/subscribe/ "Subscribe"). Also, Nico has been working on improving the usability of the blog. You now have a better way to browse all our recipes and it's all [here](http://www.goodiesavolonte.com/recipes/ "Recipe Index").
 
 <!--more-->
 

@@ -48,4 +48,4 @@ P.S.  Don't forget to pair it with a glass of iced cold beer!
   3. Pour the fish sauce marinade into the bag and incorporate with the wings.  Leave it in the fridge for at least 8 hours. Turn once half way through.
   4. An hour before cooking time, take out the wings and pat dry with a paper towel. Set aside.
   5. Set the fryer temperature to 360F.
-  6. Cook the wings for about 9 mins until it&#8217;s golden brown. Remove cooked wings to drain on paper towels.
+  6. Cook the wings for about 9 mins until it's golden brown. Remove cooked wings to drain on paper towels.

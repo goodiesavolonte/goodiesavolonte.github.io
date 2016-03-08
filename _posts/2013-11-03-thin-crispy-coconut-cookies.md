@@ -18,7 +18,7 @@ tags:
 
 [<img class="alignnone size-full wp-image-631" alt="Thin Crispy Coconut Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/thin-crispy-coconut-cookies-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/thin-crispy-coconut-cookies-02.jpg)
 
-Time flies. I can&#8217;t believe it&#8217;s already November. In a bit more than a month, we will head to Paris to spend some time with the family and celebrate Christmas. We are really excited about it. Simon will  have his first real Christmas experience with all the family, and us, parents, will hopefully enjoy a long-awaited break. I can&#8217;t remember the last time Nico and I went to a restaurant. But what better place other than Paris to catch up?
+Time flies. I can't believe it's already November. In a bit more than a month, we will head to Paris to spend some time with the family and celebrate Christmas. We are really excited about it. Simon will  have his first real Christmas experience with all the family, and us, parents, will hopefully enjoy a long-awaited break. I can't remember the last time Nico and I went to a restaurant. But what better place other than Paris to catch up?
 
 <!--more-->
 
@@ -26,9 +26,9 @@ Speaking of holiday season, one of the things that I love is to make my own gift
 
 [<img class="alignnone size-full wp-image-630" alt="Thin Crispy Coconut Cookies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/thin-crispy-coconut-cookies-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/thin-crispy-coconut-cookies-01.jpg)
 
-I have tried different methods for cutting the cookies. The first method I tried was to freeze the dough as a sausage then cut it in thin slices with a knife. It worked well but the slices were not always even. Also, the extra handling of the dough after being frozen makes it soften very quickly and difficult to work with. The best method I found was to roll the dough between two sheets of parchment paper, cut the cookies and then freeze. There is minimal manipulation of the dough once it&#8217;s taken out of the freezer, you just need to take the cookies off the paper and place them on a baking mat. Simple!
+I have tried different methods for cutting the cookies. The first method I tried was to freeze the dough as a sausage then cut it in thin slices with a knife. It worked well but the slices were not always even. Also, the extra handling of the dough after being frozen makes it soften very quickly and difficult to work with. The best method I found was to roll the dough between two sheets of parchment paper, cut the cookies and then freeze. There is minimal manipulation of the dough once it's taken out of the freezer, you just need to take the cookies off the paper and place them on a baking mat. Simple!
 
-What about you? What&#8217;s your favorite baked gifts?
+What about you? What's your favorite baked gifts?
 
 <div class="recipe-box">
   <h2 class="recipe-title">

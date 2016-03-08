@@ -18,13 +18,13 @@ tags:
 
 [<img class="alignnone size-full wp-image-546" alt="Kale Panzanella" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6159.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6159.jpg)
 
-One of the cool things about food blogging is that it forces us to discover new ingredients, new techniques, new dishes. We had no idea what panzanella was until recently. If you would have asked me, I would have probably answered that it&#8217;s some type of pasta from Italy or some kind of pancetta. No, in fact Panzanella is a Tuscan salad with a base of croutons and tomato chunks. It&#8217;s a simple dish but really flavorful. If you like tomato bruschetta, then you&#8217;ll probably like it, it&#8217;s exactly the same but in a salad form.
+One of the cool things about food blogging is that it forces us to discover new ingredients, new techniques, new dishes. We had no idea what panzanella was until recently. If you would have asked me, I would have probably answered that it's some type of pasta from Italy or some kind of pancetta. No, in fact Panzanella is a Tuscan salad with a base of croutons and tomato chunks. It's a simple dish but really flavorful. If you like tomato bruschetta, then you'll probably like it, it's exactly the same but in a salad form.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-547" alt="Kale Panzanella" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6162.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6162.jpg)
 
-Kale is also an ingredient that we recently discovered. It&#8217;s been popular for a long time now but we never really jumped in. It&#8217;s actually quite tasty, not overly bitter and slightly briny. To make this kale panzanella, I marinated kale and onions for about half an hour to help reducing the rawness. The next big thing is the chopped bread or croutons. Stale bread is traditionally used but we were too eager to try the salad that we could not wait for our homemade loaf to go stale. The croutons are tossed with an olive oil that I infused with garlic and marjoram.
+Kale is also an ingredient that we recently discovered. It's been popular for a long time now but we never really jumped in. It's actually quite tasty, not overly bitter and slightly briny. To make this kale panzanella, I marinated kale and onions for about half an hour to help reducing the rawness. The next big thing is the chopped bread or croutons. Stale bread is traditionally used but we were too eager to try the salad that we could not wait for our homemade loaf to go stale. The croutons are tossed with an olive oil that I infused with garlic and marjoram.
 
 [<img class="alignnone size-full wp-image-545" alt="Kale Panzanella" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6107.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6107.jpg)
 

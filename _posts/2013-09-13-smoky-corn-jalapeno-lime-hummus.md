@@ -18,13 +18,13 @@ tags:
 
 [<img class="alignnone size-full wp-image-276" alt="Smoky Corn & Jalapenos Hummus" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5310.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5310.jpg)
 
-Over the years, I have tried many variations of hummus. I started with the classic hummus with homemade tahini then less traditional versions like roasted red pepper, sundried tomatoes and roasted garlic to name a few. Our new favorite is grilled corn and jalapeños with lime. It doesn&#8217;t have many ingredients but each of them sing in this hummus. It&#8217;s sweet, fresh and hot but the best is the smokiness.
+Over the years, I have tried many variations of hummus. I started with the classic hummus with homemade tahini then less traditional versions like roasted red pepper, sundried tomatoes and roasted garlic to name a few. Our new favorite is grilled corn and jalapeños with lime. It doesn't have many ingredients but each of them sing in this hummus. It's sweet, fresh and hot but the best is the smokiness.
 
 [<img class="alignnone size-full wp-image-277" alt="Smoky Corn & Jalapenos Hummus" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5315.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5315.jpg)
 
-I start off by cooking the corn in the oven. Steaming or boiling also works. Next, I want to add smoky flavors to the corn and jalapeños. The best would be to use a grill with wood or charcoal but that&#8217;s not always possible. I use a broiler but I would use a gas stove if I had one (I miss my gas stove!). For the jalapeños, what you want is the skin to peel off easily, it&#8217;s okay if you burn them a little, it will just taste better. You don&#8217;t want to go that far with the corn, just a little grilling is fine. To keep this fresh, I add lime zest and juice, and a bit of coriander. Of course, you can adjust the level of spiciness to your liking by using less jalapeños. In the end it&#8217;s hot but it doesn&#8217;t have the burning sensation of fresh chillies so don&#8217;t be afraid.
+I start off by cooking the corn in the oven. Steaming or boiling also works. Next, I want to add smoky flavors to the corn and jalapeños. The best would be to use a grill with wood or charcoal but that's not always possible. I use a broiler but I would use a gas stove if I had one (I miss my gas stove!). For the jalapeños, what you want is the skin to peel off easily, it's okay if you burn them a little, it will just taste better. You don't want to go that far with the corn, just a little grilling is fine. To keep this fresh, I add lime zest and juice, and a bit of coriander. Of course, you can adjust the level of spiciness to your liking by using less jalapeños. In the end it's hot but it doesn't have the burning sensation of fresh chillies so don't be afraid.
   
-Also, I don&#8217;t bother removing the skin from the chickpeas but if you&#8217;re after a hummus that is extra smooth, then you might want to consider that.
+Also, I don't bother removing the skin from the chickpeas but if you're after a hummus that is extra smooth, then you might want to consider that.
 
 [<img class="alignnone size-full wp-image-274" alt="Grilling corn and jalapenos" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5277.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5277.jpg) [<img class="alignnone size-full wp-image-275" alt="Grilling corn and jalapenos" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5279.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5279.jpg)
 
@@ -100,7 +100,7 @@ What is your favorite variation of hummus?
       Rinse the lime. Zest and juice it.
     </li>
     <li>
-      In a food processor, put the chickpeas, corn, jalapeños, zest, olive oil and half of the lime juice. Mix until smooth. Adjust seasoning with salt and the rest of the juice. Add a bit more olive oil if it&#8217;s not smooth enough.
+      In a food processor, put the chickpeas, corn, jalapeños, zest, olive oil and half of the lime juice. Mix until smooth. Adjust seasoning with salt and the rest of the juice. Add a bit more olive oil if it's not smooth enough.
     </li>
     <li>
       Rinse coriander. Before serving, chop and sprinkle on top of the hummus.

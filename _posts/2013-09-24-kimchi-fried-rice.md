@@ -17,11 +17,11 @@ tags:
 
 [<img class="alignnone size-full wp-image-344" alt="Kimchi Fried Rice" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5477.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5477.jpg)
 
-What I remember the most from our trip to Seoul few years ago is the food. We both liked Korean cuisine before going but even more after. We spent most of our time eating. Well, it&#8217;s hard to resist when streets are filled with vendors offering spicy rice cakes, grilled seafood and other delicacies. One night we were invited at my best friend&#8217;s for dinner. Her parents who are the kindest people prepared us a real feast. Among many delicious dishes, we each had a bowl of ginseng chicken with a whole chicken. Yes, a whole chicken per person. For some reason, we still had room for ice cream later that night.
+What I remember the most from our trip to Seoul few years ago is the food. We both liked Korean cuisine before going but even more after. We spent most of our time eating. Well, it's hard to resist when streets are filled with vendors offering spicy rice cakes, grilled seafood and other delicacies. One night we were invited at my best friend's for dinner. Her parents who are the kindest people prepared us a real feast. Among many delicious dishes, we each had a bowl of ginseng chicken with a whole chicken. Yes, a whole chicken per person. For some reason, we still had room for ice cream later that night.
 
 [<img class="alignnone size-full wp-image-343" alt="Kimchi Fried Rice" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5471.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5471.jpg)
 
-Once in a while, we cook our own Korean food. That usually includes kimchi and red pepper paste. A great way to use the leftovers, as it&#8217;s often the case with asian food is to make fried rice. To make this kimchi fried rice, I prefer to use short grain rice which is traditionally used in Korean cuisine. I did not use meat but instead topped the rice with a fried egg. I like the way the rich and soft yolk contrasts with the heat and spices. Feel free to add meat or even seafood though. I used leftover rice but if you cook rice, let it cool down beforehand. Kimchi gets more sour after some time in the fridge so you might need to add a little sugar to balance out the sourness.
+Once in a while, we cook our own Korean food. That usually includes kimchi and red pepper paste. A great way to use the leftovers, as it's often the case with asian food is to make fried rice. To make this kimchi fried rice, I prefer to use short grain rice which is traditionally used in Korean cuisine. I did not use meat but instead topped the rice with a fried egg. I like the way the rich and soft yolk contrasts with the heat and spices. Feel free to add meat or even seafood though. I used leftover rice but if you cook rice, let it cool down beforehand. Kimchi gets more sour after some time in the fridge so you might need to add a little sugar to balance out the sourness.
 
 [<img class="alignnone size-full wp-image-345" alt="Kimchi Fried Rice" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5478.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5478.jpg)
 
@@ -87,7 +87,7 @@ Once in a while, we cook our own Korean food. That usually includes kimchi and r
       Chop the kimchi and slice the green onions.
     </li>
     <li>
-      Heat up a pan or wok to a medium high heat. When it&#8217;s getting hot, add the vegetable oil. Add 2/3 of the green onions and stir-fry for about a minute.
+      Heat up a pan or wok to a medium high heat. When it's getting hot, add the vegetable oil. Add 2/3 of the green onions and stir-fry for about a minute.
     </li>
     <li>
       Add the kimchi, half of the kimchi juice, gochujang and sugar and stir-fry for another minute.

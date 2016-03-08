@@ -1,6 +1,6 @@
 ---
 id: 605
-title: 'Jerk Chicken &#038; Okra Rice'
+title: 'Jerk Chicken & Okra Rice'
 date: 2013-10-31T03:40:05+00:00
 author: Cecilia
 layout: post
@@ -20,13 +20,13 @@ tags:
 
 [<img class="alignnone size-full wp-image-616" alt="Jerk Chicken & Okra Rice" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6254.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6254.jpg)
 
-There are many dishes from around the world that I would like to try but never had the chance. You always hear or read about it on TV or internet and you know it must be delicious. You could do it yourself, follow a recipe, but you&#8217;re not sure how it&#8217;s supposed to taste like. Things like Mexican mole, Filipino pata or Peruvian ceviche are on my must-try list. Until last month, Jerk Chicken was also on that list. One of my friend who&#8217;s from Jamaican origin prepared Jerk Chicken not long ago and I was lucky to be able to try it. Of course, the next step was to make my own.
+There are many dishes from around the world that I would like to try but never had the chance. You always hear or read about it on TV or internet and you know it must be delicious. You could do it yourself, follow a recipe, but you're not sure how it's supposed to taste like. Things like Mexican mole, Filipino pata or Peruvian ceviche are on my must-try list. Until last month, Jerk Chicken was also on that list. One of my friend who's from Jamaican origin prepared Jerk Chicken not long ago and I was lucky to be able to try it. Of course, the next step was to make my own.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-615" alt="Jerk Chicken & Okra Rice" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6241.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6241.jpg)
 
-I thought I would use the same technique that I use to make roast chicken, that is, butterfly the whole chicken. I like this way of roasting because most of the skin is exposed to the heat and crisp up when using a traditional oven. Prior to roasting, the chicken is marinated for at least one day to get all the flavors into the meat. The marinade is then use to make a wonderful sauce. Finally, it&#8217;s served with brown rice and okra.
+I thought I would use the same technique that I use to make roast chicken, that is, butterfly the whole chicken. I like this way of roasting because most of the skin is exposed to the heat and crisp up when using a traditional oven. Prior to roasting, the chicken is marinated for at least one day to get all the flavors into the meat. The marinade is then use to make a wonderful sauce. Finally, it's served with brown rice and okra.
 
 [<img class="alignnone size-full wp-image-614" alt="Jerk Chicken" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6238.jpg" width="552" height="459" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6238.jpg)
 
@@ -34,7 +34,7 @@ This is probably not the most traditional way of cooking jerk chicken but the fl
 
 [<img class="alignnone size-full wp-image-625" alt="Jerk Chicken" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6191.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6191.jpg)
 
-_Nico&#8217;s wine pairing: We had a Albariño from Rias Baixas (Spain) with this dish and it worked pretty well. A light white with grassy notes in an off-dry style would work perfectly. I would try something from New Zealand, Sauvignon Blanc or Riesling._
+_Nico's wine pairing: We had a Albariño from Rias Baixas (Spain) with this dish and it worked pretty well. A light white with grassy notes in an off-dry style would work perfectly. I would try something from New Zealand, Sauvignon Blanc or Riesling._
 
 <div class="recipe-box">
   <h2 class="recipe-title">

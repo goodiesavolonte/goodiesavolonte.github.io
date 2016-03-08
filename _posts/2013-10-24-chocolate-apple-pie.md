@@ -17,13 +17,13 @@ tags:
 
 [<img class="alignnone size-full wp-image-568" alt="Chocolate Apple Pie" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6089.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6089.jpg)
 
-Last month we posted a recipe for raspberry and peach pie. While the pie was delicious I wasn&#8217;t fully satisfied with the lattice top. It was my first time doing it and the result was a bit clumsy. One of the reason for that was the amount of pie dough. Most pie crust recipes call for exactly the right amount of flour needed for the crust and top. That leaves not much room for error when rolling out the dough. You almost need to make a perfect round shape each time. So you might have noticed why I use so much flour for the crust. I just had to make sure there was more than enough to avoid any uh-oh moments throughout the making of the pie. After several pies I&#8217;ve made in the past few weeks where I experimented with different flour measurements, I found a more reasonable yet comfortable amount of flour for the pie crust. But that&#8217;s not all.
+Last month we posted a recipe for raspberry and peach pie. While the pie was delicious I wasn't fully satisfied with the lattice top. It was my first time doing it and the result was a bit clumsy. One of the reason for that was the amount of pie dough. Most pie crust recipes call for exactly the right amount of flour needed for the crust and top. That leaves not much room for error when rolling out the dough. You almost need to make a perfect round shape each time. So you might have noticed why I use so much flour for the crust. I just had to make sure there was more than enough to avoid any uh-oh moments throughout the making of the pie. After several pies I've made in the past few weeks where I experimented with different flour measurements, I found a more reasonable yet comfortable amount of flour for the pie crust. But that's not all.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-569" alt="Chocolate Apple Pie" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6099.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6099.jpg)
 
-While I was practicing my lattice top and crust technique, I also experimented with fillings. I have a soft spot for chocolate, especially dark chocolate. In fact, I hope to be able to make my own one day but first, let&#8217;s talk about that filling. The idea came from _Poire Belle Helene_ which is a french dessert of poached pears glazed with hot melted chocolate. I was curious to see how this could be turned into a pie filling. I tried a few, starting with pear but I wasn&#8217;t completely happy with the taste. It could have been the pear I was using were not suited or tasty enough. Apple was surprisingly much better. It paired well with the chocolate, and honestly you can&#8217;t go wrong with some apples in your pie. So here&#8217;s an original pie recipe for all fellow chocolate lovers.
+While I was practicing my lattice top and crust technique, I also experimented with fillings. I have a soft spot for chocolate, especially dark chocolate. In fact, I hope to be able to make my own one day but first, let's talk about that filling. The idea came from _Poire Belle Helene_ which is a french dessert of poached pears glazed with hot melted chocolate. I was curious to see how this could be turned into a pie filling. I tried a few, starting with pear but I wasn't completely happy with the taste. It could have been the pear I was using were not suited or tasty enough. Apple was surprisingly much better. It paired well with the chocolate, and honestly you can't go wrong with some apples in your pie. So here's an original pie recipe for all fellow chocolate lovers.
 
 [<img class="alignnone size-full wp-image-567" alt="Pie lattice top" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6066.jpg" width="552" height="368" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6066.jpg)
 
@@ -113,7 +113,7 @@ While I was practicing my lattice top and crust technique, I also experimented w
       Take the one disk from the fridge and place on a well floured surface. Dust the rolling pin with flour and roll the disk into a 13 inch circle.
     </li>
     <li>
-      Gently place the dough into the pie dish, making sure it&#8217;s centered. Trim the edges, leaving an extra 1 inch on the outside. Place the pie dish in the fridge until the lattice strips are ready.
+      Gently place the dough into the pie dish, making sure it's centered. Trim the edges, leaving an extra 1 inch on the outside. Place the pie dish in the fridge until the lattice strips are ready.
     </li>
     <li>
       Remove the second disk from the fridge. Place on a well floured surface. Dust the rolling pin with flour and roll the disk into a 11 inch circle. Use a cutting knife to cut the dough in strips of your preferred width.
@@ -122,7 +122,7 @@ While I was practicing my lattice top and crust technique, I also experimented w
       Take the pie dish out of the fridge. Pour half of the filling into the dish, add chocolate chunks, add the rest of the apples on top. Place half of the strips on top of the filling, leaving space between them and with the longest strip in the center.
     </li>
     <li>
-      Fold back every other strip onto itself in a way that the folded edges are aligned at the center. Place a strip perpendicular to the folded edges. Unfold onto the perpendicular strip. Repeat, working your way to the sides until the pie is covered. It sounds complicated but it&#8217;s not, practice with paper if you&#8217;re not sure.
+      Fold back every other strip onto itself in a way that the folded edges are aligned at the center. Place a strip perpendicular to the folded edges. Unfold onto the perpendicular strip. Repeat, working your way to the sides until the pie is covered. It sounds complicated but it's not, practice with paper if you're not sure.
     </li>
     <li>
       Trim the strips flush with the bottom crust. Fold back the extra inch toward the center and seal with with your hands or a fork.
@@ -131,10 +131,10 @@ While I was practicing my lattice top and crust technique, I also experimented w
       Beat the egg yolk with the water. Brush the top. Sprinkle with 2 tbsp granulated sugar.
     </li>
     <li>
-      Place the pie in the oven and immediately turn the temperature down to 350F. Bake for 50 minutes to an hour until crush is golden and filling bubbling. Check the crust periodically to make sure it&#8217;s not browning too much. If it&#8217;s the case, cover the crust with foil.
+      Place the pie in the oven and immediately turn the temperature down to 350F. Bake for 50 minutes to an hour until crush is golden and filling bubbling. Check the crust periodically to make sure it's not browning too much. If it's the case, cover the crust with foil.
     </li>
     <li>
-      When it&#8217;s done, place a on cooling rack and serve warm.
+      When it's done, place a on cooling rack and serve warm.
     </li>
   </ol>
 </div>

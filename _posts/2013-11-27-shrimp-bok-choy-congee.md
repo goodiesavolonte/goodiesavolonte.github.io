@@ -1,6 +1,6 @@
 ---
 id: 744
-title: 'Shrimp &#038; Bok-Choy Congee'
+title: 'Shrimp & Bok-Choy Congee'
 date: 2013-11-27T03:59:08+00:00
 author: Cecilia
 layout: post
@@ -20,13 +20,13 @@ tags:
 
 [<img class="alignnone size-full wp-image-752" alt="Shrimp & Bok Choy Congee" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/shrimp-bok-choy-congee-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/shrimp-bok-choy-congee-01.jpg)
 
-Congee is a rice porridge popular in Asian countries. Historically, it was a way for poor families to make the rice supplies last as long as possible. Only a small amount of grain is needed to make congee. The rice is slow cooked in a large amount of water until the grains break up and turn into a thick soup. Nowadays, congee is eaten with a variety of ingredients, ranging from sweet to savory. There are so many great ingredients and toppings for this dish, it&#8217;s really hard to name a favorite.
+Congee is a rice porridge popular in Asian countries. Historically, it was a way for poor families to make the rice supplies last as long as possible. Only a small amount of grain is needed to make congee. The rice is slow cooked in a large amount of water until the grains break up and turn into a thick soup. Nowadays, congee is eaten with a variety of ingredients, ranging from sweet to savory. There are so many great ingredients and toppings for this dish, it's really hard to name a favorite.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-751" alt="Shrimp & Bok Choy Congee" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/shrimp-bok-choy-congee-03.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/shrimp-bok-choy-congee-03.jpg)
 
-We prepare congee quite often at home. It&#8217;s great for toddlers like Simon, especially when they&#8217;re having their first solid food. Now that he can chew, it&#8217;s a convenient way for us to make him more diverse meals. Some ingredients can be difficult to approach for toddlers but mixed in congee they seem much more friendly. We also have this tradition of preparing congee when someone is sick at home. I&#8217;m not sure where it came from but in Chinese culture, congee, or jook as we call it, is known for being a remedy for illness. But you don&#8217;t need to be sick or a toddler to eat congee, it&#8217;s a great dish that can be eaten during any meal of the day.
+We prepare congee quite often at home. It's great for toddlers like Simon, especially when they're having their first solid food. Now that he can chew, it's a convenient way for us to make him more diverse meals. Some ingredients can be difficult to approach for toddlers but mixed in congee they seem much more friendly. We also have this tradition of preparing congee when someone is sick at home. I'm not sure where it came from but in Chinese culture, congee, or jook as we call it, is known for being a remedy for illness. But you don't need to be sick or a toddler to eat congee, it's a great dish that can be eaten during any meal of the day.
 
 While this recipe includes shrimp and boy-choy, these would be fairly easy to replace with any other ingredients of your choice. I also like it with fish to keep it simple or salted duck eggs for a more Asian version. For toppings, I usually stay with the green onions and fried shallot combo, but feel free to experiment!
 

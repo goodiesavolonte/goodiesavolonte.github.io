@@ -17,11 +17,11 @@ tags:
 
 [<img class="alignnone size-full wp-image-253" alt="Raspberry & Peach Pie" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5338.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5338.jpg)
 
-It&#8217;s been one week since we&#8217;ve started this blog and it almost feels like it has taken over our daily lives. This is what we think about all day. There are tons of recipes we would like to try so that we can share them with you. It&#8217;s a lot of fun but it&#8217;s hard work, especially because we want everything to be perfect. Being a full time mom makes it even more challenging. Simon is such a high need and super active child that it&#8217;s almost impossible to get anything done when he&#8217;s not asleep. Hopefully, it will get better as I get used to blogging.
+It's been one week since we've started this blog and it almost feels like it has taken over our daily lives. This is what we think about all day. There are tons of recipes we would like to try so that we can share them with you. It's a lot of fun but it's hard work, especially because we want everything to be perfect. Being a full time mom makes it even more challenging. Simon is such a high need and super active child that it's almost impossible to get anything done when he's not asleep. Hopefully, it will get better as I get used to blogging.
 
 [<img class="alignnone size-full wp-image-254" alt="Raspberry & Peach Pie" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5344.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5344.jpg)
 
-Last weekend, I had a craving for pie. Maybe it&#8217;s because Fall is here, who knows. I wanted to try something new for the filling and it turned out we had peaches and raspberries in stock. It sounded like a good combo. They were sour enough that I did not have to use lemon juice but if your fruits are more on the sweet side feel free to add a little. The recipe that I used for the crust yields a crust that is extremely flaky, just how I like it. You can use a food processor for the dough but I find a pastry blender works just as well if you don&#8217;t have one. . .or if you&#8217;re too lazy to wash the parts (don&#8217;t you judge me!).
+Last weekend, I had a craving for pie. Maybe it's because Fall is here, who knows. I wanted to try something new for the filling and it turned out we had peaches and raspberries in stock. It sounded like a good combo. They were sour enough that I did not have to use lemon juice but if your fruits are more on the sweet side feel free to add a little. The recipe that I used for the crust yields a crust that is extremely flaky, just how I like it. You can use a food processor for the dough but I find a pastry blender works just as well if you don't have one. . .or if you're too lazy to wash the parts (don't you judge me!).
 
 <a style="font-size: 1rem; color: #0f3647;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5319.jpg"><img class="alignnone size-full wp-image-251" alt="Pie crust" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5319.jpg" width="274" height="384" /></a> [<img class="alignnone size-full wp-image-252" alt="Raspberry & Peach Pie" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5321.jpg" width="274" height="384" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5321.jpg)
 
@@ -128,7 +128,7 @@ PS: This is not the best looking pie but it sure is yummy yummy!
       Take the bigger disk from the fridge and place on a well floured surface. Dust the rolling pin with flour and roll the disk into a 13 inch circle.
     </li>
     <li>
-      Gently place the dough into the pie dish, making sure it&#8217;s centered. Trim the edges, leaving an extra 1 inch on the outside. Place the pie dish in the fridge until the lattice strips are ready.
+      Gently place the dough into the pie dish, making sure it's centered. Trim the edges, leaving an extra 1 inch on the outside. Place the pie dish in the fridge until the lattice strips are ready.
     </li>
     <li>
       Remove the second disk from the fridge. Place on a well floured surface. Dust the rolling pin with flour and roll the disk into a 11 inch circle. Use a cutting knife to cut the dough in strips of your preferred width.
@@ -137,7 +137,7 @@ PS: This is not the best looking pie but it sure is yummy yummy!
       Take the pie dish out of the fridge. Pour the filling into the dish. Place half of the strips on top of the filling, leaving space between them and with the longest strip in the center.
     </li>
     <li>
-      Fold back every other strip onto itself in a way that the folded edges are aligned at the center. Place a strip perpendicular to the folded edges. Unfold onto the perpendicular strip. Repeat, working your way to the sides until the pie is covered. It sounds complicated but it&#8217;s not, practice with paper if you&#8217;re not sure.
+      Fold back every other strip onto itself in a way that the folded edges are aligned at the center. Place a strip perpendicular to the folded edges. Unfold onto the perpendicular strip. Repeat, working your way to the sides until the pie is covered. It sounds complicated but it's not, practice with paper if you're not sure.
     </li>
     <li>
       Trim the strips flush with the bottom crust. Fold back the extra inch toward the center and seal with with your hands or a fork.
@@ -146,10 +146,10 @@ PS: This is not the best looking pie but it sure is yummy yummy!
       Beat the egg yolk with the water. Brush the top. Sprinkle with 2 tbsp granulated sugar.
     </li>
     <li>
-      Place the pie in the oven and immediately turn the temperature down to 350F. Bake for 50 minutes to an hour until crush is golden and filling bubbling. Check the crust periodically to make sure it&#8217;s not browning too much. If it&#8217;s the case, cover the crust with foil.
+      Place the pie in the oven and immediately turn the temperature down to 350F. Bake for 50 minutes to an hour until crush is golden and filling bubbling. Check the crust periodically to make sure it's not browning too much. If it's the case, cover the crust with foil.
     </li>
     <li>
-      When it&#8217;s done, place a on cooling rack and serve at room temperature.
+      When it's done, place a on cooling rack and serve at room temperature.
     </li>
   </ol>
 </div>

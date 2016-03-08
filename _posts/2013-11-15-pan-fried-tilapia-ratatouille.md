@@ -25,19 +25,19 @@ tags:
 
 [<img class="alignnone size-full wp-image-681" alt="Pan Fried Tilapia and Ratatouille" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-01.jpg)
 
-I clearly remember the first time I had ratatouille. It was in France, at Nico&#8217;s parents. His dad had prepared this wonderful vegetable stew called ratatouille. At the time, the only thing I knew about it was pretty much limited to the movie. But I soon found out how great it is. When it&#8217;s cooked well, this humble dish really captures the essence of each vegetable that&#8217;s in it. I had to know how to make it. There are probably many ways but the one I had that day was so delicious. Nico&#8217;s dad is no amateur either, he once owned a restaurant, trained at Le Cordon Bleu in Paris and occasionally caters for some good people.
+I clearly remember the first time I had ratatouille. It was in France, at Nico's parents. His dad had prepared this wonderful vegetable stew called ratatouille. At the time, the only thing I knew about it was pretty much limited to the movie. But I soon found out how great it is. When it's cooked well, this humble dish really captures the essence of each vegetable that's in it. I had to know how to make it. There are probably many ways but the one I had that day was so delicious. Nico's dad is no amateur either, he once owned a restaurant, trained at Le Cordon Bleu in Paris and occasionally caters for some good people.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-682" alt="Pan Fried Tilapia and Ratatouille" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-02.jpg)
 
-There are many things you could eat with ratatouille. It&#8217;s great with roast chicken or pork but also fish. This time, I pan-fried some tilapia fillets. It&#8217;s perfect if you have little time. Prepare the ratatouille in advance and heat it up while you&#8217;re cooking your fillets. You&#8217;ll have a great dinner ready in under 15 minutes.
+There are many things you could eat with ratatouille. It's great with roast chicken or pork but also fish. This time, I pan-fried some tilapia fillets. It's perfect if you have little time. Prepare the ratatouille in advance and heat it up while you're cooking your fillets. You'll have a great dinner ready in under 15 minutes.
 
-I think the key point in this recipe is to cook all the vegetables separately. First of all, there is A LOT of them so it&#8217;s more convenient. But you also control the cooking time for each of them. The goal is not to completely cook the veggies but to make them sweat and lightly color them. Once this is done, you&#8217;ve done most of the work, the veggies are added to a pot to slow cook in the oven. The result is vegetables with great flavors that melt in your mouth.
+I think the key point in this recipe is to cook all the vegetables separately. First of all, there is A LOT of them so it's more convenient. But you also control the cooking time for each of them. The goal is not to completely cook the veggies but to make them sweat and lightly color them. Once this is done, you've done most of the work, the veggies are added to a pot to slow cook in the oven. The result is vegetables with great flavors that melt in your mouth.
 
 [<img class="alignnone size-full wp-image-683" alt="Pan Fried Tilapia and Ratatouille" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-03.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Pan-fried-tilapia-ratatouille-03.jpg)
 
-_Nico&#8217;s wine pairing: A red fruity and tannic wine would be a good match for the ratatouille. Think Côtes du Rhône. If you&#8217;re filling adventurous (like me), try a white wine from the Provence region like Bandol._
+_Nico's wine pairing: A red fruity and tannic wine would be a good match for the ratatouille. Think Côtes du Rhône. If you're filling adventurous (like me), try a white wine from the Provence region like Bandol._
 
 <div class="recipe-box">
   <h2 class="recipe-title">

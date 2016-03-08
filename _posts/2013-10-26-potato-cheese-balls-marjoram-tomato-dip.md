@@ -1,6 +1,6 @@
 ---
 id: 575
-title: 'Potato Cheese Balls &#038; Marjoram Tomato Dip'
+title: 'Potato Cheese Balls & Marjoram Tomato Dip'
 date: 2013-10-26T03:00:56+00:00
 author: Cecilia
 layout: post
@@ -24,7 +24,7 @@ Any foreigner who has lived long enough in Shanghai must know the famous Nepali 
 
 [<img class="alignnone size-full wp-image-580" alt="Potato Cheese Balls and Tomato Marjoram Dip" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6141.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6141.jpg)
 
-It&#8217;s been more than two years since we left Shanghai and man. . . we miss those cheese balls. I don&#8217;t know if it&#8217;s an authentic Nepali dish but I could not find any recipes or even the slightest information about them, all we had was glimpses of far memories. Lately, we&#8217;ve been determined to solve the mystery. What we were looking for was something smooth that holds together, not the typical gooey cheese. And I think we found something pretty close to what we had in mind. Of course, the result is not a perfect replica of the Nepali Kitchen dish, but it&#8217;s pretty close, and more importantly it&#8217;s tasty!
+It's been more than two years since we left Shanghai and man. . . we miss those cheese balls. I don't know if it's an authentic Nepali dish but I could not find any recipes or even the slightest information about them, all we had was glimpses of far memories. Lately, we've been determined to solve the mystery. What we were looking for was something smooth that holds together, not the typical gooey cheese. And I think we found something pretty close to what we had in mind. Of course, the result is not a perfect replica of the Nepali Kitchen dish, but it's pretty close, and more importantly it's tasty!
 
 [<img class="alignnone size-full wp-image-578" alt="Potato Cheese Balls and Tomato Marjoram Dip" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6134.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6134.jpg)
 
@@ -32,7 +32,7 @@ To go with the cheese balls, I also made a simple yet refreshing tomato dipping 
 
 [<img class="alignnone size-full wp-image-577" alt="Potato Cheese Balls and Tomato Marjoram Dip" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6128.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6128.jpg)
 
-_Nico&#8217;s wine pairing: I would go with a simple Chardonnay or Aligoté from Burgundy, nothing crazy: Bourgogne Blanc, Rully or Bouzeron would be perfect._
+_Nico's wine pairing: I would go with a simple Chardonnay or Aligoté from Burgundy, nothing crazy: Bourgogne Blanc, Rully or Bouzeron would be perfect._
 
 <div class="recipe-box">
   <h2 class="recipe-title">
@@ -115,7 +115,7 @@ _Nico&#8217;s wine pairing: I would go with a simple Chardonnay or Aligoté from
       In a small pot, add potatoes, cover with water and bring to a boil. Check for doneness after about 5 minutes by inserting a knife. It should come out easily. Drain and set aside to cool down.
     </li>
     <li>
-      Peel the skin off the potatoes and pass through a ricer to get finely mashed potatoes. If you don&#8217;t have a ricer, use a sieve and a spoon, it takes longer but the result is ultra smooth.
+      Peel the skin off the potatoes and pass through a ricer to get finely mashed potatoes. If you don't have a ricer, use a sieve and a spoon, it takes longer but the result is ultra smooth.
     </li>
     <li>
       In a large mixing bowl, add 1/3 cup of the mashed potatoes, cheese, flour, egg, garlic powder, garam masala and salt. Using your hand, mix all ingredients until well combined. It should be slightly sticky but hold its shape well.

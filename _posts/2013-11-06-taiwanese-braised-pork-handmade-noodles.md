@@ -1,6 +1,6 @@
 ---
 id: 641
-title: 'Taiwanese Braised Pork &#038; Handmade Noodles'
+title: 'Taiwanese Braised Pork & Handmade Noodles'
 date: 2013-11-06T04:56:06+00:00
 author: Cecilia
 layout: post
@@ -19,15 +19,15 @@ tags:
 
 [<img class="alignnone size-full wp-image-648" alt="Taiwanese Braised Pork (Lu Rou)" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Taiwanese-Braised-Pork-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Taiwanese-Braised-Pork-01.jpg)
 
-One of my biggest regrets after living for so many years in China is not having travelled to Taiwan. I&#8217;m a big fan of Taiwanese cuisine and while I had good experiences in Shanghai, I know the food must be better in situ. If I go there someday, I&#8217;ll spend all my time wandering in food markets and eating Xiao Long Bao (soup dumplings). In the meantime, I&#8217;m comforting myself with a classic Taiwanese recipe of braised pork: Lu Rou.
+One of my biggest regrets after living for so many years in China is not having travelled to Taiwan. I'm a big fan of Taiwanese cuisine and while I had good experiences in Shanghai, I know the food must be better in situ. If I go there someday, I'll spend all my time wandering in food markets and eating Xiao Long Bao (soup dumplings). In the meantime, I'm comforting myself with a classic Taiwanese recipe of braised pork: Lu Rou.
 
 <!--more-->
 
-Lu Rou is usually eaten with steamed rice (Lu Rou Fan) but this time I wanted to try noodles. Making your own noodles is not difficult. It takes a little effort but like everything homemade it&#8217;s always very rewarding. These noodles are basically flour and water. They have similar texture and size as udon. Of course, you can play with the size by adjusting the thickness when slicing and rolling the dough.
+Lu Rou is usually eaten with steamed rice (Lu Rou Fan) but this time I wanted to try noodles. Making your own noodles is not difficult. It takes a little effort but like everything homemade it's always very rewarding. These noodles are basically flour and water. They have similar texture and size as udon. Of course, you can play with the size by adjusting the thickness when slicing and rolling the dough.
 
 [<img class="alignnone  wp-image-646" alt="Handmade noodles" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-02.jpg" width="274" height="410" /> ](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-02.jpg)[<img class="alignnone  wp-image-647" alt="Handmade noodles" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-03.jpg" width="274" height="410" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-03.jpg)<a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-01.jpg"><img class="alignnone size-full wp-image-645" alt="Handmade noodles" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Handmade-noodles-01.jpg" width="552" height="828" /></a>
 
-For the braised meat, I use pork but any kind of ground meat would work. The dish is served with bok choy which goes really well with the sauce. If you&#8217;ve never had Taiwanese food, this is a great way to start!
+For the braised meat, I use pork but any kind of ground meat would work. The dish is served with bok choy which goes really well with the sauce. If you've never had Taiwanese food, this is a great way to start!
 
 [<img class="alignnone size-full wp-image-649" alt="Taiwanese Braised Pork (Lu Rou)" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Taiwanese-Braised-Pork-02.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Taiwanese-Braised-Pork-02.jpg)
 
@@ -124,7 +124,7 @@ For the braised meat, I use pork but any kind of ground meat would work. The di
       Soak dried mushrooms in 2 cups water for an hour. Remove stems and cut in thin strips. Reserve water.
     </li>
     <li>
-      Place eggs into a small pot, cover with water and bring to a boil. Once it&#8217;s boiling, cook for 6 minutes. Drain and soak in cold water for 5 minutes. Remove the shells.
+      Place eggs into a small pot, cover with water and bring to a boil. Once it's boiling, cook for 6 minutes. Drain and soak in cold water for 5 minutes. Remove the shells.
     </li>
     <li>
       In a large pot on medium high heat, cook garlic, ginger and shallots until golden.

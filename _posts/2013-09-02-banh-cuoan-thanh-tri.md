@@ -19,24 +19,24 @@ tags:
 {: .post-image}
 ![image1](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5157.jpg){:height="773" width="552"}
 
-Don&#8217;t ask me how Banh Cuon Thanh Tri sounds like in Vietnamese, I have no idea. All I know is that it&#8217;s one of my favorite thing. The first time I had this dish was at Nico&#8217;s aunt&#8217;s. His family is from Cambodia so he grew up eating a lot of southeast asian cuisine including Vietnamese food.
+Don't ask me how Banh Cuon Thanh Tri sounds like in Vietnamese, I have no idea. All I know is that it's one of my favorite thing. The first time I had this dish was at Nico's aunt's. His family is from Cambodia so he grew up eating a lot of southeast asian cuisine including Vietnamese food.
 
-Banh cuon thanh tri is basically rice flour sheets (with no filling, as opposed to just banh cuon). It&#8217;s usually topped with cha lua (vietnamese ham), fried shallots and a bunch of herbs, and served with the classic fish sauce based sauce nuoc cham.
+Banh cuon thanh tri is basically rice flour sheets (with no filling, as opposed to just banh cuon). It's usually topped with cha lua (vietnamese ham), fried shallots and a bunch of herbs, and served with the classic fish sauce based sauce nuoc cham.
 
 <!--more-->
 
 {: .post-image}
 ![image2](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51632.jpg){:height="773" width="552"}
 
-The recipe itself is pretty simple but the prep takes time so make sure you have some. One of the key element is the sauce and Nico is usually the one making it. He learned it from his dad and has good taste buds to find the right balance. Because this sauce is all about balance, it&#8217;s hard to give precise measurements. Also, this is not the blend flat sauce that you find in restaurants, this version is more concentrated than the traditional sauce so be prepare for a punch of flavours! . . .and let&#8217;s be honest, a bad breath but oh well . . .
+The recipe itself is pretty simple but the prep takes time so make sure you have some. One of the key element is the sauce and Nico is usually the one making it. He learned it from his dad and has good taste buds to find the right balance. Because this sauce is all about balance, it's hard to give precise measurements. Also, this is not the blend flat sauce that you find in restaurants, this version is more concentrated than the traditional sauce so be prepare for a punch of flavours! . . .and let's be honest, a bad breath but oh well . . .
 
 {: .post-image}
 ![image3](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51361.jpg){:height="384" width="274"}
 ![image4](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51381.jpg){:height="384" width="274"}
 
-About the rice sheets, I haven&#8217;t tried to make them from scratch yet, I usually buy them fresh at the Chinese store. They should be soft and chewy. Fried shallots can also be found there but this time I forgot to buy a jar so I had to make them myself.
+About the rice sheets, I haven't tried to make them from scratch yet, I usually buy them fresh at the Chinese store. They should be soft and chewy. Fried shallots can also be found there but this time I forgot to buy a jar so I had to make them myself.
 
-_Nico&#8217;s wine pairing: The sauce in this dish would probably overpower any wine so grab a beer! I&#8217;m open to suggestions though._
+_Nico's wine pairing: The sauce in this dish would probably overpower any wine so grab a beer! I'm open to suggestions though._
 
 {: .post-image}
 ![image5](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_51291.jpg){:height="384" width="274"}
@@ -110,13 +110,13 @@ _Nico&#8217;s wine pairing: The sauce in this dish would probably overpower any 
   
   <ol>
     <li>
-      Start preparing the sauce. Grind garlic into a paste. Add lime, fish sauce and sugar, making sure the sugar is properly diluted. To make a well balanced sauce, you should be able to clearly taste the salt, sweet and sour. Adjust little by little. When it&#8217;s done, add sriracha or chilli and mix.
+      Start preparing the sauce. Grind garlic into a paste. Add lime, fish sauce and sugar, making sure the sugar is properly diluted. To make a well balanced sauce, you should be able to clearly taste the salt, sweet and sour. Adjust little by little. When it's done, add sriracha or chilli and mix.
     </li>
     <li>
-      In a pan on medium heat, toast the peanuts for a few minutes, being careful not to brown them too much. Set aside. When it&#8217;s cooled down, peel off the skin if any. With a pestle and mortar, grind coarsely. If you don&#8217;t have one, you can use a towel and a rolling pin.
+      In a pan on medium heat, toast the peanuts for a few minutes, being careful not to brown them too much. Set aside. When it's cooled down, peel off the skin if any. With a pestle and mortar, grind coarsely. If you don't have one, you can use a towel and a rolling pin.
     </li>
     <li>
-      If you&#8217;re making your own fried shallots, slice about 4 or 5 thinly. Heat vegetable oil on medium heat and fry shallots until golden brown. Lay on paper towel to suck up the extra oil.
+      If you're making your own fried shallots, slice about 4 or 5 thinly. Heat vegetable oil on medium heat and fry shallots until golden brown. Lay on paper towel to suck up the extra oil.
     </li>
     <li>
       Rince soybean sprouts and dry. Discard the root ends (optional).

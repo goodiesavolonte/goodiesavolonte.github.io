@@ -20,11 +20,11 @@ tags:
 
 [<img class="alignnone size-full wp-image-234" alt="Sichuan Peppercorn Tofu Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5249.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5249.jpg)
 
-Nico and I lived in Shanghai for several years. One of the question that always comes back is what we miss the most from that time. Our mutual answer is. . . the food! Shanghai is such a great place to experience the variety of Chinese cuisine, from Dongbei to Guangdong and even Xinjiang! And guess what? We made the most of it. One of our favorites (yes, we have many favorites) is Sichuan cuisine. The spices and particularly the Sichuan pepper (Mala) is what&#8217;s making it so special. Sichuan food is not just hot, it also has that tingling sensation that no other food has.
+Nico and I lived in Shanghai for several years. One of the question that always comes back is what we miss the most from that time. Our mutual answer is. . . the food! Shanghai is such a great place to experience the variety of Chinese cuisine, from Dongbei to Guangdong and even Xinjiang! And guess what? We made the most of it. One of our favorites (yes, we have many favorites) is Sichuan cuisine. The spices and particularly the Sichuan pepper (Mala) is what's making it so special. Sichuan food is not just hot, it also has that tingling sensation that no other food has.
 
 [<img class="alignnone size-full wp-image-235" alt="Sichuan Peppercorn Tofu Salad" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5252.jpg" width="552" height="773" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/09/IMG_5252.jpg)
 
-This salad is very simple but packed with flavours. The main ingredient is the tofu so you&#8217;ll want to get the best quality you can find. You can use silken tofu but a firm tofu will give a better texture in this dish. I used green onions and coriander as toppings. The dressing is mainly composed of Chinkiang vinegar (or black vinegar), soy sauce and of course sichuan peppercorn oil. You can easily find these in any chinese store.
+This salad is very simple but packed with flavours. The main ingredient is the tofu so you'll want to get the best quality you can find. You can use silken tofu but a firm tofu will give a better texture in this dish. I used green onions and coriander as toppings. The dressing is mainly composed of Chinkiang vinegar (or black vinegar), soy sauce and of course sichuan peppercorn oil. You can easily find these in any chinese store.
 
 <!--more-->
 

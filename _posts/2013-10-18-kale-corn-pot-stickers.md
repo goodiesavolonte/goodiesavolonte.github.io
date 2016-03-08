@@ -1,6 +1,6 @@
 ---
 id: 531
-title: 'Kale &#038; Corn Pot Stickers'
+title: 'Kale & Corn Pot Stickers'
 date: 2013-10-18T03:50:47+00:00
 author: Cecilia
 layout: post
@@ -18,21 +18,21 @@ tags:
 
 [<img class="alignnone size-full wp-image-536" alt="Kale and Corn Pot Stickers" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6057.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6057.jpg)
 
-Lately we&#8217;ve been craving for pot stickers. We also wanted to write a recipe for pot stickers since the first day we started this blog. The timing was perfect so we spent a good part of the weekend handcrafting these delicious dumplings. Nico suggested that we use kale and corn for the filling. I have never seen kale used in chinese cuisine but after giving a try I am very satisfied with the results.
+Lately we've been craving for pot stickers. We also wanted to write a recipe for pot stickers since the first day we started this blog. The timing was perfect so we spent a good part of the weekend handcrafting these delicious dumplings. Nico suggested that we use kale and corn for the filling. I have never seen kale used in chinese cuisine but after giving a try I am very satisfied with the results.
 
 <!--more-->
 
 [<img class="alignnone size-full wp-image-535" alt="Kale and Corn Pot Stickers" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6055.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6055.jpg)
 
-These little pot stickers are crunchy, slightly chewy and the filling works perfectly. To go with them, I made a simple dipping sauce with black vinegar and chilli bean sauce. If you don&#8217;t have these ingredients on hand, a mix of soy sauce and sriracha makes a good alternative.
+These little pot stickers are crunchy, slightly chewy and the filling works perfectly. To go with them, I made a simple dipping sauce with black vinegar and chilli bean sauce. If you don't have these ingredients on hand, a mix of soy sauce and sriracha makes a good alternative.
 
 [<img class="alignnone size-full wp-image-537" alt="Kale and Corn Pot Stickers" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6060.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_6060.jpg)
 
-To shape the dumplings, I just folded square wonton wrappers into triangles. It&#8217;s a simple shape that requires no special skill. Of course, you can use other shapes, just make sure to seal the dumplings properly.
+To shape the dumplings, I just folded square wonton wrappers into triangles. It's a simple shape that requires no special skill. Of course, you can use other shapes, just make sure to seal the dumplings properly.
 
 [<img class="alignnone size-full wp-image-534" alt="Kale and Corn Pot Stickers" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5898.jpg" width="552" height="368" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/10/IMG_5898.jpg)
 
-_Nico&#8217;s wine pairing: Riesling is often suggested for asian cuisine and it would be a good choice for these pot stickers. The residual sugar of the wine should pair well with the corn._
+_Nico's wine pairing: Riesling is often suggested for asian cuisine and it would be a good choice for these pot stickers. The residual sugar of the wine should pair well with the corn._
 
 <div class="recipe-box">
   <h2 class="recipe-title">

@@ -17,14 +17,14 @@ tags:
 {: .post-image}
 ![Asparagus & Bacon Soup](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/asparagus-bacon-soup-01.jpg){:height="828" width="552"}
 
-I always liked to combine asparagus & bacon. I think the subtle flavors of asparagus and the smokyness of the bacon compliment each other very well. One of my favorite side recipes is roasted bacon wrapped asparagus. Pair that with a nice and juicy steak and you&#8217;re in for a treat. I just discovered another way of combining asparagus and bacon together. I wanted to make a soup with asparagus and was looking for another ingredient. I thought about bacon and although it sounded a bit silly a first, I gave it a try.
+I always liked to combine asparagus & bacon. I think the subtle flavors of asparagus and the smokyness of the bacon compliment each other very well. One of my favorite side recipes is roasted bacon wrapped asparagus. Pair that with a nice and juicy steak and you're in for a treat. I just discovered another way of combining asparagus and bacon together. I wanted to make a soup with asparagus and was looking for another ingredient. I thought about bacon and although it sounded a bit silly a first, I gave it a try.
 
 <!--more-->
 
 {: .post-image}
 ![Asparagus & Bacon Soup](http://www.goodiesavolonte.com/wp-content/uploads/2013/12/asparagus-bacon-soup-02.jpg){:height="828" width="552"}
 
-The first step in the recipe is to make asparagus soup so if you don&#8217;t want bacon, that&#8217;s fine, skip the rest and you&#8217;re done. It&#8217;s great on its own too. What I wanted to avoid was too much fat going into the soup but also a very smooth texture. The bacon I used was very fatty so I rendered the fat as much as I could while keeping the bacon moist and not too crispy. I think this helped blending it into the soup without leaving any hard bits. On the other side, the fat left in the bacon helped making a good emulsion and the result was a very smooth and creamy texture. In other words, yum!
+The first step in the recipe is to make asparagus soup so if you don't want bacon, that's fine, skip the rest and you're done. It's great on its own too. What I wanted to avoid was too much fat going into the soup but also a very smooth texture. The bacon I used was very fatty so I rendered the fat as much as I could while keeping the bacon moist and not too crispy. I think this helped blending it into the soup without leaving any hard bits. On the other side, the fat left in the bacon helped making a good emulsion and the result was a very smooth and creamy texture. In other words, yum!
 
 <div class="recipe-box">
   <h2 class="recipe-title">

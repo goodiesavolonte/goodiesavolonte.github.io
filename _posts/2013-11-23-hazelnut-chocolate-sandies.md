@@ -1,6 +1,6 @@
 ---
 id: 724
-title: 'Hazelnut &#038; Chocolate Sandies'
+title: 'Hazelnut & Chocolate Sandies'
 date: 2013-11-23T04:58:02+00:00
 author: Cecilia
 layout: post
@@ -18,11 +18,11 @@ tags:
 
 [<img class="alignnone size-full wp-image-732" alt="Hazelnut & Chocolate Sandies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Hazelnut-chocolate-sandies-01.jpg" width="552" height="828" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Hazelnut-chocolate-sandies-01.jpg)
 
-Holiday season is here and I&#8217;m enjoying every moment of it. I&#8217;m still trying to find or develop cookie recipes that will make the holidays even more special. Few weeks ago, I posted a recipe for [Thin & Crispy Coconut Cookies](http://www.goodiesavolonte.com/2013/11/03/thin-crispy-coconut-cookies/ "Thin & Crispy Coconut Cookies"). They are great cookies and make perfect gifts. In fact, they were so good that a squirrel stole a bag of cookie that I gave to a friend. Today, I&#8217;m making another great recipe that squirrels would probably love even more: Hazelnut & Chocolate Sandies.
+Holiday season is here and I'm enjoying every moment of it. I'm still trying to find or develop cookie recipes that will make the holidays even more special. Few weeks ago, I posted a recipe for [Thin & Crispy Coconut Cookies](http://www.goodiesavolonte.com/2013/11/03/thin-crispy-coconut-cookies/ "Thin & Crispy Coconut Cookies"). They are great cookies and make perfect gifts. In fact, they were so good that a squirrel stole a bag of cookie that I gave to a friend. Today, I'm making another great recipe that squirrels would probably love even more: Hazelnut & Chocolate Sandies.
 
 <!--more-->
 
-This recipe is adapted from the Pecan Sandies in [Thomas Keller&#8217;s Bouchon Bakery cookbook](http://www.amazon.com/gp/product/1579654355/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1579654355&linkCode=as2&tag=goodavolo06-20)<img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=goodavolo06-20&l=as2&o=1&a=1579654355" width="1" height="1" border="0" />. I like the original recipe but being the gourmande that I am, I wanted to be a bit more playful with it. I replaced pecans with hazelnut and instead of incorporating chunks to the dough, I used hazelnut meal for the dough itself. The sandies in the book are plain. In this version, I top the cookies with dark chocolate and a whole hazelnut.
+This recipe is adapted from the Pecan Sandies in [Thomas Keller's Bouchon Bakery cookbook](http://www.amazon.com/gp/product/1579654355/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1579654355&linkCode=as2&tag=goodavolo06-20)<img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=goodavolo06-20&l=as2&o=1&a=1579654355" width="1" height="1" border="0" />. I like the original recipe but being the gourmande that I am, I wanted to be a bit more playful with it. I replaced pecans with hazelnut and instead of incorporating chunks to the dough, I used hazelnut meal for the dough itself. The sandies in the book are plain. In this version, I top the cookies with dark chocolate and a whole hazelnut.
 
 [<img class="alignnone size-full wp-image-730" alt="Hazelnut & Chocolate Sandies" src="http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Hazelnut-chocolate-sandies-02.jpg" width="552" height="394" />](http://www.goodiesavolonte.com/wp-content/uploads/2013/11/Hazelnut-chocolate-sandies-02.jpg)
 
