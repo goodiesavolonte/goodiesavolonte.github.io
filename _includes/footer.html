@@ -18,6 +18,13 @@
   </div><!-- .site-info -->
 </footer><!-- #colophon -->
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+{% if page.custom_js %}
+  {% for js_file in page.custom_js %}
+<script src='{{ site.baseurl }}/js/{{ js_file }}.js' type="text/javascript"></script>
+  {% endfor %}
+{% endif %}
+
 <script src={{ "/js/ayoshare.js" | prepend: site.baseurl }}></script>        
   <script>
     $(function() {
