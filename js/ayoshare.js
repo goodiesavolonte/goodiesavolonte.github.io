@@ -9,8 +9,8 @@ $.fn.ayoshare = function() {
 
     var b = encodeURIComponent(url),
         a = ($(document).attr('title') != null) ? $(document).attr('title') : '',
-        desk = ($('meta[name="description"]').attr('content') != null) ? $('meta[name="description"]').attr('content') : '',
-        img = ($('meta[property="og:image"]').attr('content') != null) ? $('meta[property="og:image"]').attr('content') : '',
+        desk = description != null ? description : ($('meta[name="description"]').attr('content') != null) ? $('meta[name="description"]').attr('content') : '',
+        img = image != null ? image : ($('meta[property="og:image"]').attr('content') != null) ? $('meta[property="og:image"]').attr('content') : '',
         html = '';
 		
 	var xxx = ($(this).attr('id') != null) ? '#'+$(this).attr('id') : '.'+$(this).attr('class');

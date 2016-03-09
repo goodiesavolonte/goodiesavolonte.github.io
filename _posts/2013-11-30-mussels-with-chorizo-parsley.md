@@ -7,6 +7,7 @@ layout: post
 guid: http://www.goodiesavolonte.com/?p=757
 permalink: /2013/11/30/mussels-with-chorizo-parsley/
 thumbnail: /img/thumbnails/2013-11-30-mussels-with-chorizo-parsley.jpg
+share_image: http://www.goodiesavolonte.com/wp-content/uploads/2013/11/mussels-with-chorizo-parsley-01.jpg
 categories:
   - Mains
   - Seafood

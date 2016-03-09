@@ -7,6 +7,7 @@ layout: post
 guid: http://www.goodiesavolonte.com/?p=771
 permalink: /2013/12/04/asparagus-bacon-soup/
 thumbnail: /img/thumbnails/2013-12-04-asparagus-bacon-soup.jpg
+share_image: http://www.goodiesavolonte.com/wp-content/uploads/2013/12/asparagus-bacon-soup-01.jpg
 categories:
   - Soup
 tags:

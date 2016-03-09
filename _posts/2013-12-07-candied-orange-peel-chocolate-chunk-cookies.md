@@ -7,6 +7,7 @@ layout: post
 guid: http://www.goodiesavolonte.com/?p=785
 permalink: /2013/12/07/candied-orange-peel-chocolate-chunk-cookies/
 thumbnail: /img/thumbnails/2013-12-07-candied-orange-peel-chocolate-chunk-cookies.jpg
+share_image: http://www.goodiesavolonte.com/wp-content/uploads/2013/12/candied-orange-peel-chocolate-chunk-cookies-01.jpg
 categories:
   - Pastry
   - Snacks

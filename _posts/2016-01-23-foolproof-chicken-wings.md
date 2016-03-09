@@ -7,6 +7,7 @@ layout: post
 guid: http://www.goodiesavolonte.com/?p=813
 permalink: /2016/01/23/foolproof-chicken-wings/
 thumbnail: /img/thumbnails/2016-01-23-foolproof-chicken-wings.jpg
+share_image: http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg
 categories:
   - Appetizers
   - Mains

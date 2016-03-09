@@ -30,8 +30,12 @@
     $(function() {
         $(".social-share-url").each(function() {
           var share_url = $(this).data("url");
+          var share_description = $(this).data("description");
+          var share_image = $(this).data("image")
           $(this).ayoshare(
             url = share_url,
+            description = share_description,
+            image = share_image,
             google = true,
             stumbleupon = false,
             facebook = true,
@@ -48,6 +52,8 @@
     $(function() {
         $("#social-share").ayoshare(
             url = location.href,
+            description = $(this).data("description"),
+            image = $(this).data("image"),
             google = true,
             stumbleupon = false,
             facebook = true,

@@ -7,7 +7,7 @@ layout: post
 guid: http://www.goodiesavolonte.com/?p=798
 permalink: /2015/11/20/salted-caramel-pecan-cookies/
 thumbnail: /img/thumbnails/2015-11-20-salted-caramel-pecan-cookies.jpg
-amazon:
+share_image: http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-02.jpg
 categories:
   - Pastry
   - Snacks
@@ -15,7 +15,6 @@ tags:
   - caramel
   - pecan
 ---
-
 {: .post-image}
 ![Salted Caramel Pecan Cookies](http://www.goodiesavolonte.com/wp-content/uploads/2015/11/salted-caramel-pecan-cookies-02.jpg){:height="828" width="552"}
 
