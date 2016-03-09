@@ -25,7 +25,7 @@ paginate_path: "/page:num/"
 recent_posts_limit: 5
 
 # Social
-disqus_username: goodiesavolonte-test
+disqus_username: goodiesavolonte
 facebook_username: goodiesavolonte
 pinterest_username: goodiesavolonte
 googleplus_username: 109690430298154983764
