@@ -14,19 +14,19 @@ tags:
 ---
 
 {: .post-image}
-![Quinoa Spelt Bread](/img/posts/2016-03-10-quinoa-spelt-bread-01.jpg){:height="828" width="552"}
+![Quinoa Spelt Bread](http://www.goodiesavolonte.com/img/posts/2016-03-10-quinoa-spelt-bread-01.jpg){:height="828" width="552"}
 
 We eat all types of bread including white and multigrain but I am always on a hunt for healthy and tasty bread recipes. This is so far the best multigrain bread recipe that I have baked, it is moist and light. Perfect to serve as toast in the morning. I feel good when serving my family this bread to start the day. It goes well with anything but my favorite is peanut butter and jam.
 
 <!--more-->
 
 {: .post-image}
-![Quinoa Spelt Bread](/img/posts/2016-03-10-quinoa-spelt-bread-02.jpg){:height="828" width="552"}
+![Quinoa Spelt Bread](http://www.goodiesavolonte.com/img/posts/2016-03-10-quinoa-spelt-bread-02.jpg){:height="828" width="552"}
 
 Do not get discouraged by reading the instructions below, you will get a hang of it after the first few tries. This recipes makes two loaves, always a good idea to freeze few extra loaves for busy days!
 
 {: .post-image}
-![Quinoa Spelt Bread](/img/posts/2016-03-10-quinoa-spelt-bread-03.jpg){:height="828" width="552"}
+![Quinoa Spelt Bread](http://www.goodiesavolonte.com/img/posts/2016-03-10-quinoa-spelt-bread-03.jpg){:height="828" width="552"}
 
 ## Quinoa Spelt Bread
 
