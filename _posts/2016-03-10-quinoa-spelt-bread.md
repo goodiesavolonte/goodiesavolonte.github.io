@@ -4,7 +4,7 @@ author: Cecilia
 layout: post
 permalink: /2016/03/10/quinoa-spelt-bread/
 thumbnail: /img/thumbnails/2016-03-10-quinoa-spelt-bread.jpg
-share_image: http://www.goodiesavolonte.com/posts/2016-03-10-quinoa-spelt-bread-01.jpg
+share_image: http://www.goodiesavolonte.com/img/posts/2016-03-10-quinoa-spelt-bread-01.jpg
 categories:
   - Bread
 tags:
