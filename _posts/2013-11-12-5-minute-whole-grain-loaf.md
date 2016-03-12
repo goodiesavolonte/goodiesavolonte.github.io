@@ -11,7 +11,7 @@ categories:
   - Bread
   - Breakfast
 tags:
-  - whole grain
+  - whole wheat
 ---
 <input class="jpibfi" type="hidden" />
 

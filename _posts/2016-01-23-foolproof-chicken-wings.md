@@ -16,17 +16,17 @@ tags:
 ---
 
 {: .post-image}
-![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg){:height="773" width="552"}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-01.jpg){:height="828" width="552"}
 
 These crowd pleasing wings are easy to prep. The marinate sauce only has 4 ingredients which includes garlic, Maggi, fish sauce and maple syrup.  This is a foolproof tasty appetizer or main on any day. You will not believe how delicious these are until you make them. So give it a try and let me know how much you love them!
 
 <!--more-->
 
 {: .post-image}
-![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-02.jpg){:height="773" width="552"}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-02.jpg){:height="828" width="552"}
 
 {: .post-image}
-![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-03.jpg){:height="773" width="552"}
+![Foolproof Chicken Wings](http://www.goodiesavolonte.com/wp-content/uploads/2015/12/asian-style-fried-chicken-wings-03.jpg){:height="828" width="552"}
 
 P.S.  Don't forget to pair it with a glass of iced cold beer!
 
