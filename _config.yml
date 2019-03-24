@@ -15,7 +15,7 @@ permalink: /:year/:month/:day/:title/
 excerpt_separator: <!--more-->
 
 # Gems
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Pagination
 paginate: 5
