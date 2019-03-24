@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Goodies A Volonté
+title: "Goodies A Volonté"
 email: goodiesavolonte@gmail.com
-description: The culinary adventures of a chronic gourmande
+description: "The culinary adventures of a chronic gourmande"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.goodiesavolonte.com" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
