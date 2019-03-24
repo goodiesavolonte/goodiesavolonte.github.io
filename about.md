@@ -6,10 +6,8 @@ order: 2
 ---
 
 <img src="{{ site.baseurl }}/img/cecilia.jpg" class="size-full alignleft" />
-Hi! I am Cecilia, the creative mind and chronic gourmande behind this blog. I am the mom of a beautiful little boy named Simon. My french husband Nicolas is a video game programmer, wine geek, and the photographer for this blog.
+I’m Cecilia, my husband Nicolas and I love spending time in the kitchen and started our food blogging adventure in 2013.
 
-Food is deeply anchored in our genes and naturally we love cooking, whether it’s exploring new recipes or cooking wholesome dinners and lunches. Our secret deam is to open a bistro-café in a place we love.
+A lot has happened since then. We now have two boys. I became a certified aromatherapist, registered reflexologist and reiki practitioner. I’m currently studying holistic nutrition!
 
-This blog is about sharing our passion for food and we hope you enjoy it as much as we do.
-
-Happy cooking!
+I hope to share interesting and healthy recipes with you.
