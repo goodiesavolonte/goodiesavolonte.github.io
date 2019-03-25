@@ -3,27 +3,6 @@ layout: default
 ---
 {% for post in paginator.posts %}
 <article>
-  <header class="entry-header">
-    <h1 class="entry-title">
-      <a href="{{ post.url | prepend: site.baseurl }}" rel="bookmark">{{ post.title }}</a>
-    </h1>
-  </header>
-  <div class="entry-content">
-    {{ post.excerpt }}
-    <a class="more-link" href="{{ post.url | prepend: site.baseurl }}" rel="bookmark">Read more</a>
-  </div><!-- .entry-summary -->
-  <footer class="entry-meta">
-    Posted in
-    {% for category in post.categories %}
-    <a href="{{ site.baseurl }}/recipes/#{{ category }}">{{ category | capitalize }}</a>
-    {% endfor %}
-    on <span class="entry-date">{{ post.date | date_to_long_string }}</span>
-    with tags 
-    {% for tag in post.tags %}
-    <a href="{{ site.baseurl }}/recipes/#{{ tag }}">{{ tag | capitalize }}</a>
-    {% endfor %}
-    <div id="social-share-{{ forloop.index }}" class="social-share-url" data-url="{{ post.url | prepend: site.baseurl | prepend: site.url }}" data-description="{{ post.title | append: ' | ' | append: site.title | url_encode }}" data-image="{{ post.share_image | url_encode }}"></div>
-  </footer>
 </article>
 {% endfor %}
 {% if paginator.next_page %}
