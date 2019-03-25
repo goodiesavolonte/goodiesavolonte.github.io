@@ -11,8 +11,9 @@ email: goodiesavolonte@gmail.com
 description: "The culinary adventures of a chronic gourmande"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.goodiesavolonte.com" # the base hostname & protocol for your site
-permalink: /:year/:month/:day/:title/
+permalink: "/:year/:month/:day/:title/"
 excerpt_separator: <!--more-->
+encoding: UTF-8
 
 # Gems
 plugins: [jekyll-paginate]
