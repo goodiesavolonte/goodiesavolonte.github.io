@@ -34,7 +34,7 @@ For 2 people or 1 super hungry one
 
 
   * 1 cup brown rice, uncooked
-  * 500-600g oyster mushroom
+  * 300-400g oyster mushroom
   * ½ - 1 bulb garlic
   * 1 tsp ground cumin
   * 1 tsp ground turmeric
